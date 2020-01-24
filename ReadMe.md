@@ -1,6 +1,6 @@
 The "Entangled Bootstrap" repository
 ==
-(Powered by the Topincs Topic Maps engine)
+(Powered by the <a href="https://www.topincs.com">Topincs</a> Topic Maps engine)
 
 
 Mantra
