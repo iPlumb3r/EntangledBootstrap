@@ -9,4 +9,4 @@ The future of computing will be both based on strong Semantic and fully Distribu
 
 Motivation
 -
-This repository aims is to facilitate the discussion between people from 2 distinc but complemntary ecosystem
+This repository aims is to facilitate the discussion between people from 2 separate but complemntary ecosystems
