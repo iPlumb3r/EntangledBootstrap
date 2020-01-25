@@ -5,7 +5,7 @@ The <a href="https://www.topincs.com/EntangledBootstrap/">"Entangled Bootstrap"<
 
 Mantra
 -
-The future of computing will be both based on strong Semantic and fully Distribution
+The future of computing will be both based on __strong Semantic__ and __fully Distribution__
 
 Motivation
 -
