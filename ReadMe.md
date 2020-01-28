@@ -16,6 +16,6 @@ This repository aims is to facilitate the discussion between people from 2 separ
 Key Links
 -
 Important links for this project : 
-* <a href="https://www.topincs.com/EntangledBootstrap">EB repository root</a>.  
+* <a href="https://www.topincs.com/EntangledBootstrap/">EB repository root</a>.  
 * <a href="https://www.topincs.com/EntangledBootstrap/1414">Topic of the "EB repository" itself</a>.  
 * <a href="https://docs.google.com/spreadsheets/d/19F5RKX3Jg7xKRgc6FDe4GP9RVMZ2IBdWvcVB1bqZKdI">Conceptionary of the "EB repository"</a>.  
