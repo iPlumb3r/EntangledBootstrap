@@ -10,8 +10,8 @@ The future of computing will be both based on __strong Semantic__ and __fully Di
 Motivation
 -
 This repository aims is to facilitate the discussion between people from 2 separate but complementary ecosystems :
-* semantic web / semantic technologies ecosystem
-* decentralized web / distributed web ecosystem 
+* the "semantic web / semantic technologies" ecosystem
+* the "decentralized web / distributed web" ecosystem 
 
 Key Links
 -
