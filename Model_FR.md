@@ -35,5 +35,5 @@ Cette approche à 2 niveaux présente l'avantage de pouvoir définir un modèle 
 
 Cela permet de se doter d'un modèle générique de description d'écosystème qu'il est possible de spécialiser en fonction du type d'écosystème que l'on souhaite cartographier.
 
-Rq : Remarque le modèle extentionel lui-même peut disposer d'un certain niveau de généricité si l'on décide de gérer sous forme de taxonomies les différents concepts potentiellement candidats à être des classes de l'ontologie.    
+Rq : Remarque le modèle extensionel lui-même peut disposer d'un certain niveau de généricité si l'on décide de gérer sous forme de taxonomies les différents concepts potentiellement candidats à être des classes de l'ontologie.    
 Ex #Product hasType #ProductType (Software, Hardware, ...)
