@@ -5,7 +5,7 @@ Généralités
 -
 La cartographie d'un __écosystème__ consiste essentiellement à identifier __"QUI ? fait QUOI ?, COMMENT ? et POURQUOI ?"__
 
-La réponse à chacune de ces questions est apportée via un __modèle à 2 "niveaux"__
+La réponse à chacune de ces questions est apportée via un __modèle à 2 "niveaux"__ :
 * Un 1er niveau qui fait appel à des concepts __"Intentionels"__ (relatifs à la __finalité__ du concept)
 * Un 2nd niveau qui fait appel à des concepts __"Extensionels"__ (relatifs à la __nature__ du concept)
 
