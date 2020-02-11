@@ -5,7 +5,7 @@ Généralités
 -
 La cartographie d'un __écosystème__ consiste essentiellement à identifier __"QUI ? fait QUOI ?, COMMENT ? et POURQUOI ?"__
 
-La réponse à chacune de ces questions est apporté par un __modèle à 2 "niveaux"__
+La réponse à chacune de ces questions est apportée via un __modèle à 2 "niveaux"__
 * Un 1er niveau qui fait appel à des concepts __"Intentionels"__ (relatifs à la __finalité__ du concept)
 * Un 2nd niveau qui fait appel à des concepts __"Extensionels"__ (relatifs à la __nature__ du concept)
 
@@ -13,12 +13,20 @@ La réponse à chacune de ces questions est apporté par un __modèle à 2 "nive
 
 
 Par exemple, la réponse à la question "QUI ?"   
-est apportée à 1er niveau par le concept intentionel #Agent (= "la chose qui agit (quelque soit sa nature)")
+est apportée au 1er niveau par le concept intentionel #Agent (= "la chose qui agit (quelque soit sa nature)")
 puis elle complétée au 2nd niveau par différents concepts extensionels
 Classiquement il peut s'agit des concepts suivants :
 * #Person : Un individu particulier   
 * #Organization : Un ensemble de #Person ou d'#Organization   
-Mais potentielement ce peut également être :   
-* #Projet : Un individu particulier   
+Mais potentielement ce peut tout aussi bien être l'un ou l'autre des concepts suivants : 
+* #Projet : Initiative particulière d'une #Person ou d'une #Organization  
 * #Software : Produit de type logiciel (ex : une instance d'IA qui réalise des taxonomies)   
 * #Product : Produit de type matériel (ex : une voiture "taxi" autonome qui propose des courses)   
+
+Une "mécanique" similaire s'applique pour la réponse aux autres questions ...
+
+Avantages
+-
+Cette approche à 2 niveaux présente l'avantage de pouvoir définir un modèle intentionel "orthogonal" (= indépendant) au modèle extentionel.
+
+Cela permet de se doter un modèle générique de description d'écosystème qu'il est possible de spécialiser en fonction du type d'écosystème que l'on souhaite cartographier.
