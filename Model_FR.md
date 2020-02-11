@@ -38,4 +38,4 @@ Cela permet de se doter d'un modèle générique de description d'écosystème q
 
 Rq : Remarque le modèle extensionel lui-même peut disposer d'un certain niveau de généricité s'il est possible de gérer sous forme de taxonomies les différents concepts potentiellement candidats à être des classes de l'ontologie.    
 Ex #Product hasType #ProductType (Software, Hardware, ...)   
-=> Cette possibilité dépends du besoin de gérer des relations particulières entre ces concepts (ou pas)
+=> Cette possibilité dépends du besoin (ou pas) de gérer des relations particulières entre ces concepts
