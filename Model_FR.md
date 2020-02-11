@@ -9,6 +9,9 @@ La réponse à chacune de ces questions est apporté par un __modèle à 2 "nive
 * Un 1er niveau qui fait appel à des concepts __"Intentionels"__ (relatifs à la __finalité__ du concept)
 * Un 2nd niveau qui fait appel à des concepts __"Extensionels"__ (relatifs à la __nature__ du concept)
 
+![Basic Model](https://github.com/iPlumb3r/EntangledBootstrap_Topincs/blob/master/images/BasicModel.png)
+
+
 Par exemple, la réponse à la question "QUI ?"   
 est apportée à 1er niveau par le concept intentionel #Agent (= "la chose qui agit (quelque soit sa nature)")
 puis elle complétée au 2nd niveau par différents concepts extensionels
