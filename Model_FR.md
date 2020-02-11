@@ -14,7 +14,7 @@ La réponse à chacune de ces questions est apportée via un __modèle à 2 "niv
 
 Par exemple, la réponse à la question "QUI ?"   
 est apportée au 1er niveau par le concept intentionel #Agent (= "la chose qui agit (quelque soit sa nature)")
-puis elle complétée au 2nd niveau par différents concepts extensionels
+puis elle complétée au 2nd niveau par différents concepts extensionels   
 Classiquement il peut s'agit des concepts suivants :
 * #Person : Un individu particulier   
 * #Organization : Un ensemble de #Person ou d'#Organization   
