@@ -13,9 +13,9 @@ Par exemple pour la réponse à la question "QUI ?"
 est apportée à 1er niveau par le concept intentionel <Agent> (= "la chose qui agit (quelque soit sa nature)")
 puis elle complété au 2nd niveau par différents concepts extensionels
 Classiquement il peut s'agit des concepts suivants :
-* <Person> : Un individu particulier
-* <Organization> : Un ensemble de <Person> ou d'<Organization>
-Mais potentielement ce peut également être :
-* <Projet> : Un individu particulier
-* <Software> : Produit de type logiciel (ex : une instance d'IA qui réalise des taxonomies)
-* <Prodcut> : Produit de type matériel (ex : une voiture "taxi" autonome qui propose des courses)
+* <Person> : Un individu particulier   
+* <Organization> : Un ensemble de <Person> ou d'<Organization>   
+Mais potentielement ce peut également être :   
+* <Projet> : Un individu particulier   
+* <Software> : Produit de type logiciel (ex : une instance d'IA qui réalise des taxonomies)   
+* <Prodcut> : Produit de type matériel (ex : une voiture "taxi" autonome qui propose des courses)   
