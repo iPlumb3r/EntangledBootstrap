@@ -1,4 +1,4 @@
-Modèle
+Modèle à 2 niveaux
 ==
 
 Généralités
