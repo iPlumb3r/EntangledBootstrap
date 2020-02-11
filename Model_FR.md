@@ -24,7 +24,7 @@ Mais potentielement ce peut tout aussi bien être l'un ou l'autre des concepts s
 * #Product : Produit de type matériel (ex : une voiture "taxi" autonome qui propose des courses)   
 
 La réponse à la question  "QUOI ?"    
-est répondu au 1er niveau par le concept intentionel de #Deliverable (="la chose qui est livrée/développée/spécifiée (quelque soit sa nature)"
+est répondu au 1er niveau par le concept intentionel de #Deliverable (="la chose qui est livrée/développée/spécifiée (indépendament de sa nature)"
 puis est complété au 2nd niveau par différents concepts extentionels qui prennent en compte "la nature de la chose" (à un niveau plus ou moins détaillé en fonction du besoin) : #Product, #Service, ... 
 
 Une "mécanique" similaire s'applique pour la réponse aux autres questions ...
