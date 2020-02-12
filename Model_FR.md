@@ -39,3 +39,10 @@ Cela permet de se doter d'un modèle générique de description d'écosystème q
 Remarque : Remarque le modèle extensionel lui-même peut disposer d'un certain niveau de généricité s'il est possible de gérer sous forme de taxonomies les différents concepts potentiellement candidats à être des classes de l'ontologie.    
 Exemple : #Product hasType #ProductType (Software, Hardware, ...)   
 => Cette possibilité dépends du besoin (ou pas) de gérer des relations particulières entre ces concepts
+
+Annexe
+-
+Proposition de modèle intentionel "générique" 
+
+![Intentional Model](https://github.com/iPlumb3r/EntangledBootstrap_Topincs/blob/master/images/IntentionalModel_2020-02-12.png)
+
