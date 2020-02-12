@@ -7,7 +7,7 @@ Mapping a __ecosystem__ essentially consists of identifying __"WHO? does WHAT?, 
 
 The answer to each of these questions can advantageously be provided via a __"2-level" model__ :
 * A 1st level which refers to __"Intentional"__ concepts (relating to the __finality__ of the thing).
-* A 2nd level that refers to __"Extensional"__ concepts (relating to the __nature__ of the thing)
+* A 2nd level which refers to __"Extensional"__ concepts (relating to the __nature__ of the thing)
 
 Simplified model :
 ![Basic Model](https://github.com/iPlumb3r/EntangledBootstrap_Topincs/blob/master/images/BasicModel_2020-02-11.png)
