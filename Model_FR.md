@@ -44,5 +44,5 @@ Annexe
 -
 Proposition de modèle intentionel "générique" 
 
-![Intentional Model](https://github.com/iPlumb3r/EntangledBootstrap_Topincs/blob/master/images/IntentionalModel_2020-02-12.png)
+![Intentional Model](https://github.com/iPlumb3r/EntangledBootstrap_Topincs/blob/master/images/IntentionalModel_2020-02-11.png)
 
