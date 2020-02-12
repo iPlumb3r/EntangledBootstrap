@@ -44,4 +44,4 @@ Appendix
 -
 A proposal for a "generic" Intentional Model (for ecosystem mapping)
 
-![Intentional Model](https://github.com/iPlumb3r/EntangledBootstrap_Topincs/blob/master/images/IntentionalModel_2020-02-12.png)
+![Intentional Model](https://github.com/iPlumb3r/EntangledBootstrap_Topincs/blob/master/images/IntentionalModel_2020-02-11.png)
