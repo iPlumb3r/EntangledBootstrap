@@ -10,7 +10,7 @@ The answer to each of these questions can advantageously be provided via a __"2-
 * A 2nd level that calls upon __"Extensional"__ concepts (relating to the __nature__ of the thing)
 
 Simplified model :
-! [Basic Model](https://github.com/iPlumb3r/EntangledBootstrap_Topincs/blob/master/images/BasicModel_2020-02-11.png)
+![Basic Model](https://github.com/iPlumb3r/EntangledBootstrap_Topincs/blob/master/images/BasicModel_2020-02-11.png)
 
 
 For example, the answer to the question "WHO?"   
