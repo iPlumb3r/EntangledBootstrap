@@ -40,3 +40,8 @@ Note: Note the extensional model itself may have a certain level of genericity i
 Example: #Product hasType #ProductType (Software, Hardware, ...)   
 => This possibility depends on the need (or not) to manage particular relationships between these concepts.
 
+Appendix
+-
+A proposal for teh "generic" Intentional Model (for ecosystem mapping)
+
+![Intentional Model](https://github.com/iPlumb3r/EntangledBootstrap_Topincs/blob/master/images/IntentionalModel_2020-02-12.png)
