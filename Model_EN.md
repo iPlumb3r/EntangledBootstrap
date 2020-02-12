@@ -5,9 +5,9 @@ General
 -
 Mapping a __ecosystem__ essentially consists of identifying __"WHO? does WHAT?, HOW? and WHY?"__.
 
-The answer to each of these questions can advantageously be provided via a __"2-level" model __ :
-* A 1st level which calls upon __"Intentions"__ concepts (relating to the __finality__ of the thing).
-* A 2nd level that calls upon __"Extensionels"__ concepts (relating to the __nature__ of the thing)
+The answer to each of these questions can advantageously be provided via a __"2-level" model__ :
+* A 1st level which calls upon __"Intentional"__ concepts (relating to the __finality__ of the thing).
+* A 2nd level that calls upon __"Extensional"__ concepts (relating to the __nature__ of the thing)
 
 Simplified model :
 ! [Basic Model](https://github.com/iPlumb3r/EntangledBootstrap_Topincs/blob/master/images/BasicModel_2020-02-11.png)
