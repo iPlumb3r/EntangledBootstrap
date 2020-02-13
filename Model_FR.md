@@ -40,9 +40,11 @@ Remarque : Remarque le modèle extensionel lui-même peut disposer d'un certain 
 Exemple : #Product hasType #ProductType (Software, Hardware, ...)   
 => Cette possibilité dépends du besoin (ou pas) de gérer des relations particulières entre ces concepts
 
-Annexe
+Annexe(s)
 -
 Proposition de modèle intentionel "générique" 
 
 ![Intentional Model](https://github.com/iPlumb3r/EntangledBootstrap_Topincs/blob/master/images/IntentionalModel_2020-02-11.png)
 
+Cas d'usage relatif au projet lui-même
+![EBR Use Case](https://github.com/iPlumb3r/EntangledBootstrap_Topincs/blob/master/images/UseCase_EBR-itself_2020-02-13.png)
