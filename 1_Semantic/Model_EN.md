@@ -47,5 +47,5 @@ A proposal for a "generic" Intentional Model (for ecosystem mapping)
 ![Intentional Model](https://github.com/iPlumb3r/EntangledBootstrap/blob/master/images/IntentionalModel_2020-02-11.png)
 
 
-Use Case related to the project itself
+(Simplified) Use Case related to the project itself
 ![EBR Use Case](https://github.com/iPlumb3r/EntangledBootstrap/blob/master/images/UseCase_EBR-itself_2020-02-15.png)
