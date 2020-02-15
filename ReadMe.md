@@ -1,7 +1,5 @@
 The <a href="https://www.topincs.com/EntangledBootstrap/">"Entangled Bootstrap"</a> Repository (EBR)
 ==
-(Powered by the <a href="https://www.topincs.com">Topincs</a> Topic Maps engine)
-
 
 Mantra
 -
