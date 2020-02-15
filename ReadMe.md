@@ -13,7 +13,7 @@ This repository aims is  to provide a __semantic cartography__ of the intersecti
 
 Objectives 
 -
-identify and inter-connect all relevant « ingredients » : norms/standards/specifications, softwares, knowledge structures (ontologies, taxonomies, …) …
+identify and inter-connect all relevant « ingredients » : norms/standards/specifications, softwares, knowledge structures (ontologies, taxonomies, …) …   
 … for designing and building fully distributed & semantic-driven business applications like PLM (Product Lifecycle Management)
  facilitate the discussion between people from those ecosystems
 
