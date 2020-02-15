@@ -1,7 +1,8 @@
 Implementations
 ==
 
-The EBR is currently & potentially available using differents technologies ...   
+The EBR is currently & potentially available using differents technologies ...  
+
 ... where each technology focus on a given "Main Driver" (either "semantic", either "distribution")
 
 And when the "Main Driver" is "semantic", technologies could differ by the "Ontology Paradigm"
