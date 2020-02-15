@@ -7,7 +7,7 @@ The EBR is potentially available using differents technologies
     <thead>
         <tr>
             <th>Technology</th>
-            <th>Ontology Paradigme</th>
+            <th>Ontology Paradigm</th>
             <th>Statut</th>
         </tr>
     </thead>
