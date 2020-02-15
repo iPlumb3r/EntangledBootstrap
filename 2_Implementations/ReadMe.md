@@ -1,7 +1,7 @@
 Implementations
 ==
 
-The EBR is currently & potentially available using differents technologies ...
+The EBR is currently & potentially available using differents technologies ...   
 ... where each technology focus on a given "main driven" (either "semantic", either "distribution")
 
 <table>
