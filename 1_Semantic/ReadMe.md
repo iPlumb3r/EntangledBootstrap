@@ -1,6 +1,12 @@
 Semantic
 ==
 
+Generality
+-
+This section is about the 2-level modeling approach for Ecosytem mapping
+* <a href="https://github.com/iPlumb3r/EntangledBootstrap/blob/master/1_Semantic/Model_EN.md">English</a>.
+* <a href="https://github.com/iPlumb3r/EntangledBootstrap/blob/master/1_Semantic/Model_FR.md">Français</a>.
+
 Conceptionary
 -
 The conceptionnary provide label and description for concepts used in the model
