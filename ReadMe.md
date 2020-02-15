@@ -40,13 +40,8 @@ Content
     </tbody>
 </table>
 
-Key Links
--
-Important links for this project : 
-* <a href="https://www.topincs.com/EntangledBootstrap/">EBR (on Topincs) root</a>.  
-* <a href="https://www.topincs.com/EntangledBootstrap/1414">Topic of the EBR itself</a>.  
-
 Resources
 -
 * <a href="https://t.me/joinchat/HuvcrxQZeELqQjcpqIkFpA">Telegram Group</a>.  
-* <a href="https://www.topincs.com/EntangledBootstrap/">Topincs "Current" Implementation</a>.  
+* <a href="https://www.topincs.com/EntangledBootstrap/">Topincs "Current" Implementation</a>. 
+* <a href="https://www.topincs.com/EntangledBootstrap/1414">Topic of the EBR itself (In the Topincs-based RBR)</a>.  
