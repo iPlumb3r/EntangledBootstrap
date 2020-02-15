@@ -11,6 +11,35 @@ This repository aims is to facilitate the discussion between people from 2 disti
 * the __semantic web / semantic technologies__ ecosystem
 * the __decentralized web / distributed web__ ecosystem 
 
+Content
+-
+<table>
+    <thead>
+        <tr>
+            <th>Section</th>
+            <th>Description</th>
+            <th>Comment</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://github.com/iPlumb3r/EntangledBootstrap/tree/master/0_UseCases">Use Cases</a></td>
+            <td>Concretes situations that the EBR must grasp</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/iPlumb3r/EntangledBootstrap/tree/master/1_Semantic">Semantic</a></td>
+            <td>Concepts and model relevant for this ecosystem mapping</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/iPlumb3r/EntangledBootstrap/tree/master/2_Implementations">Implementations</a></td>
+            <td>A list of current & potentialimplementations of the EBR</td>
+            <td>Currently implemented with Topincs</td>
+        </tr>
+    </tbody>
+</table>
+
 Key Links
 -
 Important links for this project : 
