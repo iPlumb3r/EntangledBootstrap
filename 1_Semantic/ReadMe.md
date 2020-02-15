@@ -8,3 +8,4 @@ The conceptionnary provide label and description for concepts used in the model
 
 Model
 -
+![Semantic Model](https://github.com/iPlumb3r/EntangledBootstrap/blob/master/images/SemanticModel_2020-02-15.png)
