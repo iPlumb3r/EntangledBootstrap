@@ -46,5 +46,5 @@ Proposition de modèle intentionel "générique"
 
 ![Intentional Model](https://github.com/iPlumb3r/EntangledBootstrap/blob/master/images/IntentionalModel_2020-02-11.png)
 
-Cas d'usage relatif au projet lui-même
+Cas d'usage (simplifié) relatif au projet lui-même
 ![EBR Use Case](https://github.com/iPlumb3r/EntangledBootstrap/blob/master/images/UseCase_EBR-itself_2020-02-15.png)
