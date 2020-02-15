@@ -34,7 +34,7 @@ Content
         </tr>
         <tr>
             <td><a href="https://github.com/iPlumb3r/EntangledBootstrap/tree/master/2_Implementations">Implementations</a></td>
-            <td>A list of current & potentialimplementations of the EBR</td>
+            <td>A list of current & potential implementations of the EBR</td>
             <td>Currently implemented with Topincs</td>
         </tr>
     </tbody>
