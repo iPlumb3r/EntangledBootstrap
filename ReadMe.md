@@ -23,3 +23,4 @@ Important links for this project :
 Resources
 -
 * <a href="https://t.me/joinchat/HuvcrxQZeELqQjcpqIkFpA">Telegram Group</a>.  
+* <a href="https://www.topincs.com/EntangledBootstrap/">Topincs "Current" Implementation</a>.  
