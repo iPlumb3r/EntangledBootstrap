@@ -7,6 +7,8 @@ The EBR is currently & potentially available using differents technologies ...
 
 And when the "Main Driver" is "semantic", technologies could differ by the "Ontology Paradigm"
 
+Table of the EBR implementations
+-
 <table>
     <thead>
         <tr>
