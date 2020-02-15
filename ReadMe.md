@@ -14,7 +14,7 @@ This repository aims is to facilitate the discussion between people from 2 disti
 Key Links
 -
 Important links for this project : 
-* <a href="https://www.topincs.com/EntangledBootstrap/">EBR root</a>.  
+* <a href="https://www.topincs.com/EntangledBootstrap/">EBR (on Topincs) root</a>.  
 * <a href="https://www.topincs.com/EntangledBootstrap/1414">Topic of the EBR itself</a>.  
 
 Resources
