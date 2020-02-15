@@ -19,3 +19,7 @@ Important links for this project :
 * <a href="https://www.topincs.com/EntangledBootstrap/">EBR root</a>.  
 * <a href="https://www.topincs.com/EntangledBootstrap/1414">Topic of the EBR itself</a>.  
 * <a href="https://docs.google.com/spreadsheets/d/19F5RKX3Jg7xKRgc6FDe4GP9RVMZ2IBdWvcVB1bqZKdI">Conceptionary of the EBR</a>.  
+
+Resources
+-
+* <a href="https://t.me/joinchat/HuvcrxQZeELqQjcpqIkFpA">Telegram Group</a>.  
