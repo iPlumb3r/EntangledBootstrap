@@ -7,9 +7,15 @@ The future of computing will be both based on __strong Semantic__ and __fully Di
 
 Motivation
 -
-This repository aims is to facilitate the discussion between people from 2 distinct but complementary __ecosystems__ :
+This repository aims is  to provide a __semantic cartography__ of the intersection between 2 distincts but complementary __ecosystems__ :
 * the __semantic web / semantic technologies__ ecosystem
 * the __decentralized web / distributed web__ ecosystem 
+
+Objectives 
+-
+identify and inter-connect all relevant « ingredients » : norms/standards/specifications, softwares, knowledge structures (ontologies, taxonomies, …) …
+… for designing and building fully distributed & semantic-driven business applications like PLM (Product Lifecycle Management)
+ facilitate the discussion between people from those ecosystems
 
 Content
 -
