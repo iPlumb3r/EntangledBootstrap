@@ -18,12 +18,12 @@ To Be Completed
         <tr>
             <td><a href="https://medium.com/holochain/unenclosable-carriers-and-the-future-of-communication-4ac6045ac894">Unenclosable Carriers and the Future of Communication</a></td>
             <td><a href="https://twitter.com/artbrock">Art Brock</a></td>
-            <td>Holochain</td>
+            <td><a href="https://holochain.org/">Holochain</a></td></td>
         </tr>
         <tr>
             <td><a href="https://infocentral.org/drafts/PrinciplesDraft.html#use-only-hash-based-identity-and-referencing-for-persistent-data">Unifying Principles for Next Generation Computing</a></td>
             <td><a href="https://twitter.com/ChrisGebhardtIC">Chris Gebhardt</a></td>
-            <td>InfoCentral</td>
+            <td><a href="https://infocentral.org/">InfoCentral</a></td>
         </tr>
         <tr>
             <td><a href="https://ruben.verborgh.org/blog/2017/12/20/paradigm-shifts-for-the-decentralized-web/">Paradigm shifts for the decentralized Web</a></td>
