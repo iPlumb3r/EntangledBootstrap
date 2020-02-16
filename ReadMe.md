@@ -28,7 +28,7 @@ Induced Mean
 -
 Facilitate the discussion between people from those ecosystems
 
-Content
+Table of Content
 -
 <table>
     <thead>
