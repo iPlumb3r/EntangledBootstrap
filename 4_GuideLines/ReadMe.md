@@ -51,6 +51,11 @@ Candidates Technologies
     </thead>
     <tbody>
         <tr>
+            <td><a href="https://en.wikipedia.org/wiki/Topic_map">Topic Maps</a></td>
+            <td>Business Model / Ontology</td>
+            <td>No Topic Maps - based "Open Source" tool available !</td>
+        </tr>
+        <tr>
             <td><a href="https://www.w3.org/OWL/">Ontology Web Language (OWL)</a></td>
             <td>Business Model / Ontology</td>
             <td></td>
