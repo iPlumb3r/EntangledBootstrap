@@ -47,7 +47,12 @@ Content
             <td><a href="https://github.com/iPlumb3r/EntangledBootstrap/tree/master/3_UI-UX">UI / UX</a></td>
             <td>Input for the target User Interface & Experience</td>
             <td></td>
-        </tr>       
+        </tr>  
+        <tr>
+            <td><a href="https://github.com/iPlumb3r/EntangledBootstrap/tree/master/4_GuideLines">Guide Lines</a></td>
+            <td>Best pratices to follow (or to be - strongly - inspired by) for implementation purposes</td>
+            <td></td>
+        </tr>  
         <tr>
             <td><a href="https://github.com/iPlumb3r/EntangledBootstrap/tree/master/9_Implementations">Implementations</a></td>
             <td>A list of current & potential implementations of the EBR</td>
