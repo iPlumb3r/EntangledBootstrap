@@ -11,7 +11,7 @@ Id Card
 
 Tags
 -
-#EcosystemMapping #SemanticCartography #SemanticTechnology #SemanticWeb #DecentralizedWeb #DistributedWeb #OntologyDrivenSoftwareEngineering #SemanticDrivenForms
+#EcosystemMapping #SemanticCartography #SemanticTechnology #SemanticWeb #DecentralizedWeb #DistributedWeb #OntologyDrivenSoftwareEngineering #SemanticDrivenForms #InferenceEngine
 
 Targeted Finality 
 -
