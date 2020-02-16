@@ -4,7 +4,8 @@ For implementation purposes
 
 Distributed Web Guide Lines
 -
-To Be Completed
+
+Some very relevant advices for building fully distributed applications
 
 <table>
     <thead>
