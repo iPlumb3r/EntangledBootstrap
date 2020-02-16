@@ -13,18 +13,20 @@ Tags
 -
 #EcosystemMapping #SemanticCartography #SemanticTechnology #SemanticWeb #DecentralizedWeb #DistributedWeb #OntologyDrivenSoftwareEngineering #SemanticDriven
 
-Motivation / Finality 
+Targeted Finality 
 -
-* identify and inter-connect all relevant « ingredients » : norms/standards/specifications, softwares, knowledge structures (ontologies, taxonomies, …) …   
+Identify and inter-connect all relevant « ingredients » : norms/standards/specifications, softwares, knowledge structures (ontologies, taxonomies, …) …   
 … for designing and building fully distributed & semantic-driven business applications like PLM (Product Lifecycle Management)
- * facilitate the discussion between people from those ecosystems
 
-Deliverable
+Proposed Deliverable
 -
 This initiative aims is to provide a __semantic cartography__ of the intersection between 2 distincts but complementary __ecosystems__ :
 * the __semantic web / semantic technologies__ ecosystem
 * the __decentralized web / distributed web__ ecosystem 
 
+Induced Mean
+-
+Facilitate the discussion between people from those ecosystems
 
 Content
 -
