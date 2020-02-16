@@ -5,6 +5,10 @@ Mantra
 -
 The future of computing will be both based on __strong Semantic__ and __fully Distribution__
 
+Id Card
+-
+
+
 Motivation
 -
 This repository aims is  to provide a __semantic cartography__ of the intersection between 2 distincts but complementary __ecosystems__ :
