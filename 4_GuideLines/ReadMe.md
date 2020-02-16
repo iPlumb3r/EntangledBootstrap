@@ -41,6 +41,9 @@ To Be Completed
 Candidates Technologies
 ==
 
+For the "Semantic" aspect (Semantic Web)
+-
+
 <table>
     <thead>
         <tr>
@@ -68,6 +71,26 @@ Candidates Technologies
         <tr>
             <td><a href="https://github.com/AtomGraph/Linked-Data-Templates">Linked Data Templates</a></td>
             <td>Semantic-Driven Forms</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+
+For the "Distribution" aspect (Distributed Web)
+-
+<table>
+    <thead>
+        <tr>
+            <th>Techology</th>
+            <th>Domain</th>
+            <th>Comment</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://holochain.org/">Holochain</a></td>
+            <td>Fully Distributed Apps</td>
             <td></td>
         </tr>
     </tbody>
