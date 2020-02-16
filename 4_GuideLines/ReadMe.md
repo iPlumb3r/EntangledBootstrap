@@ -10,7 +10,7 @@ To Be Completed
     <thead>
         <tr>
             <th>Title</th>
-            <th>Authors</th>
+            <th>Author</th>
             <th>Related project</th>
         </tr>
     </thead>
