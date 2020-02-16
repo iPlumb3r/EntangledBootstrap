@@ -44,7 +44,7 @@ Content
             <td></td>
         </tr>        
         <tr>
-            <td><a href="https://github.com/iPlumb3r/EntangledBootstrap/tree/master/3_UI-UX">Rules</a></td>
+            <td><a href="https://github.com/iPlumb3r/EntangledBootstrap/tree/master/3_UI-UX">UI / UX</a></td>
             <td>Input for the target User Interface & Experience</td>
             <td></td>
         </tr>       
