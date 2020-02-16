@@ -9,6 +9,10 @@ Id Card
 -
 ![EBR IdCard](https://github.com/iPlumb3r/EntangledBootstrap/blob/master/images/EBR_IdCard_2020-02-18.png)
 
+Tags
+-
+#EcosystemMapping #SemanticCartography #SemanticTechnology #SemanticWeb #DecentralizedWeb #DistributedWeb #OntologyDrivenSoftwareEngineering #SemanticDriven
+
 Motivation / Finality 
 -
 * identify and inter-connect all relevant « ingredients » : norms/standards/specifications, softwares, knowledge structures (ontologies, taxonomies, …) …   
