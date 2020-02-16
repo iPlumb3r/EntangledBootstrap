@@ -2,6 +2,10 @@ Guide Lines
 ==
 For implementation purposes
 
+For the "Semantic" aspect (Semantic Web)
+-
+To Be Completed
+
 For the "Distribution" aspect (Distributed Web)
 -
 
@@ -33,10 +37,6 @@ Some very relevant advices for building fully distributed applications
         </tr>
     </tbody>
 </table>
-
-For the "Semantic" aspect (Semantic Web)
--
-To Be Completed
 
 Candidates Technologies
 ==
