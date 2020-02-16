@@ -30,7 +30,7 @@ Content
     <tbody>
         <tr>
             <td><a href="https://github.com/iPlumb3r/EntangledBootstrap/tree/master/0_UseCases">Use Cases</a></td>
-            <td>Concretes situations that the EBR must grasp</td>
+            <td>Concretes situations that the EBR initiative must grasp</td>
             <td></td>
         </tr>
         <tr>
