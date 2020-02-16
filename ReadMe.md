@@ -1,7 +1,7 @@
 The <a href="https://www.topincs.com/EntangledBootstrap/">"Entangled Bootstrap"</a> Repository (EBR)
 ==
 
-Mantra
+Vision
 -
 The future of computing will be both based on __strong Semantic__ and __fully Distribution__
 
