@@ -2,7 +2,7 @@ Guide Lines
 ==
 For implementation purposes
 
-Distributed Web Guide Lines
+For the "Distribution" aspect (Distributed Web)
 -
 
 Some very relevant advices for building fully distributed applications
@@ -34,6 +34,6 @@ Some very relevant advices for building fully distributed applications
     </tbody>
 </table>
 
-Semantic Web Guide Lines
+For the "Semantic" aspect (Semantic Web)
 -
 To Be Completed
