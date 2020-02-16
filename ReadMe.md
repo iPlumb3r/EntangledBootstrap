@@ -5,7 +5,7 @@ Vision
 -
 The future of computing will be both based on __strong Semantic__ and __fully Distribution__
 
-Id Card
+Project Id Card
 -
 ![EBR IdCard](https://github.com/iPlumb3r/EntangledBootstrap/blob/master/images/EBR_IdCard_2020-02-18.png)
 
