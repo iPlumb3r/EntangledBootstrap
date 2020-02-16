@@ -37,3 +37,33 @@ Some very relevant advices for building fully distributed applications
 For the "Semantic" aspect (Semantic Web)
 -
 To Be Completed
+
+Candidates Technologies
+==
+
+<table>
+    <thead>
+        <tr>
+            <th>Techology</th>
+            <th>Domain</th>
+            <th>Comment</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://www.w3.org/OWL/">Ontology Web Language (OWL)</a></td>
+            <td>Business Model / Ontology</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://www.w3.org/Submission/SWRL/">Semantic Web Rule Language  (SWRL)</a></td>
+            <td>Business Rules</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/AtomGraph/Linked-Data-Templates">Linked Data Templates</a></td>
+            <td>Semantic-Driven Forms</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
