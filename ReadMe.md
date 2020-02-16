@@ -40,7 +40,7 @@ Content
         </tr>
         <tr>
             <td><a href="https://github.com/iPlumb3r/EntangledBootstrap/tree/master/2_Rules">Rules</a></td>
-            <td>Rules for inferring new knowledge from asserted knowledge</td>
+            <td>Rules for inferring new knowledge from existing asserted knowledge</td>
             <td></td>
         </tr>        
         <tr>
