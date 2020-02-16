@@ -16,17 +16,17 @@ To Be Completed
     </thead>
     <tbody>
         <tr>
-            <td>A1</td>
+            <td><a href="https://github.com/babonet13/HelloWorld/">HelloWorld Repository</a></td>
             <td>Art Brock</td>
             <td>Holochain</td>
         </tr>
         <tr>
-            <td>B1</td>
+            <td><a href="https://github.com/babonet13/HelloWorld/">HelloWorld Repository</a></td>
             <td>Chris Gebhardt</td>
             <td>InfoCentral</td>
         </tr>
         <tr>
-            <td>B1</td>
+            <td><a href="https://github.com/babonet13/HelloWorld/">HelloWorld Repository</a></td>
             <td>Ruben</td>
             <td>N/A</td>
         </tr>
