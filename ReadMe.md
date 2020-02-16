@@ -44,7 +44,12 @@ Content
             <td></td>
         </tr>        
         <tr>
-            <td><a href="https://github.com/iPlumb3r/EntangledBootstrap/tree/master/3_Implementations">Implementations</a></td>
+            <td><a href="https://github.com/iPlumb3r/EntangledBootstrap/tree/master/3_UI-UX">Rules</a></td>
+            <td>Input for the target User Interface & Experience</td>
+            <td></td>
+        </tr>       
+        <tr>
+            <td><a href="https://github.com/iPlumb3r/EntangledBootstrap/tree/master/9_Implementations">Implementations</a></td>
             <td>A list of current & potential implementations of the EBR</td>
             <td>Currently implemented with Topincs</td>
         </tr>
