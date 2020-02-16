@@ -28,7 +28,7 @@ To Be Completed
         <tr>
             <td><a href="https://ruben.verborgh.org/blog/2017/12/20/paradigm-shifts-for-the-decentralized-web/">Paradigm shifts for the decentralized Web</a></td>
             <td><a href="https://twitter.com/RubenVerborgh">Ruben Verborgh</a></td>
-            <td>N/A</td>
+            <td><a href="https://adecentweb.org/">aDecentWeb</a></td>
         </tr>
     </tbody>
 </table>
