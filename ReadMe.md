@@ -39,7 +39,12 @@ Content
             <td></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/iPlumb3r/EntangledBootstrap/tree/master/2_Implementations">Implementations</a></td>
+            <td><a href="https://github.com/iPlumb3r/EntangledBootstrap/tree/master/2_Rules">Rules</a></td>
+            <td>Rules for inferring new knowledge from asserted knowledge</td>
+            <td></td>
+        </tr>        
+        <tr>
+            <td><a href="https://github.com/iPlumb3r/EntangledBootstrap/tree/master/3_Implementations">Implementations</a></td>
             <td>A list of current & potential implementations of the EBR</td>
             <td>Currently implemented with Topincs</td>
         </tr>
