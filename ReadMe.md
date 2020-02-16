@@ -56,3 +56,8 @@ Resources
 * <a href="https://t.me/joinchat/HuvcrxQZeELqQjcpqIkFpA">Telegram Group</a>.  
 * <a href="https://www.topincs.com/EntangledBootstrap/">Topincs "Current" Implementation</a>. 
 * <a href="https://www.topincs.com/EntangledBootstrap/1414">Topic of the EBR itself (In the Topincs-based RBR)</a>.  
+
+Similar Project
+-
+* <a href="https://kumu.io/DigLife/decentralized-tech">the Decentralized Tech ecosystem map</a>.  
+
