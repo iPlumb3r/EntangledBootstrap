@@ -9,17 +9,18 @@ Id Card
 -
 ![EBR IdCard](https://github.com/iPlumb3r/EntangledBootstrap/blob/master/images/EBR_IdCard_2020-02-16.png)
 
-Motivation
+Motivation / Finality 
+-
+* identify and inter-connect all relevant « ingredients » : norms/standards/specifications, softwares, knowledge structures (ontologies, taxonomies, …) …   
+… for designing and building fully distributed & semantic-driven business applications like PLM (Product Lifecycle Management)
+ * facilitate the discussion between people from those ecosystems
+
+Deliverable
 -
 This repository aims is  to provide a __semantic cartography__ of the intersection between 2 distincts but complementary __ecosystems__ :
 * the __semantic web / semantic technologies__ ecosystem
 * the __decentralized web / distributed web__ ecosystem 
 
-Objectives 
--
-* identify and inter-connect all relevant « ingredients » : norms/standards/specifications, softwares, knowledge structures (ontologies, taxonomies, …) …   
-… for designing and building fully distributed & semantic-driven business applications like PLM (Product Lifecycle Management)
- * facilitate the discussion between people from those ecosystems
 
 Content
 -
