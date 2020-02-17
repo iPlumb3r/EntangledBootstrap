@@ -11,7 +11,7 @@ Project Id Card
 
 Tags
 -
-#EcosystemMapping #SemanticCartography #SemanticTechnology #SemanticWeb #DecentralizedWeb #DistributedWeb <a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/OntologyDrivenSoftwareEngineering.md">#OntologyDrivenSoftwareEngineering</a> #SemanticDrivenForms #InferenceEngine
+#EcosystemMapping #SemanticCartography #SemanticTechnology <a href="https://www.topincs.com/EntangledBootstrap/1882">#SemanticWeb</a> <a href="https://www.topincs.com/EntangledBootstrap/1851">#DecentralizedWeb</a> <a href="https://www.topincs.com/EntangledBootstrap/1851">#DistributedWeb</a> <a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/OntologyDrivenSoftwareEngineering.md">#OntologyDrivenSoftwareEngineering</a> #SemanticDrivenForms #InferenceEngine
 
 Targeted Finality 
 -
