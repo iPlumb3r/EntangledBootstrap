@@ -16,6 +16,7 @@ Table of the EBR implementations
             <th>Main Driver</th>              
             <th>Ontology Paradigm</th>          
             <th>Statut</th>
+            <th>EBR Topic</th>      
         </tr>
     </thead>
     <tbody>
@@ -24,31 +25,35 @@ Table of the EBR implementations
             <td>Semantic</td>
             <td>Topic Maps</td>
             <td><a href="https://www.topincs.com/EntangledBootstrap/">Current</a></td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1405">Current</a></td>
         </tr>
-        <tr>
         <tr>
             <td><a href="https://www.infoloom.com/product/">The Networker</a></td>
            <td>Semantic</td>        
            <td>Topic Maps</td>
-            <td>Investigating</td>
+           <td>Investigating</td>
+           <td><a href="https://www.topincs.com/EntangledBootstrap/1965">Current</a></td>         
         </tr>
         <tr>
             <td><a href="http://semapps.org/">SemApps</a></td>      
             <td>Semantic</td>
             <td>OWL</td>
             <td>Investigating</td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1467">Current</a></td>  
         </tr>
         <tr>
             <td><a href="https://www.odaseontologies.com/">Odase</a></td>   
             <td>Semantic</td>
             <td>OWL</td>
             <td>Investigating</td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1533">Current</a></td>  
         </tr>
         <tr>
             <td><a href="https://holochain.org/">Holochain</a></td>   
             <td>Distribution</td>
             <td>Semantic Trees ?</td>
             <td>Investigating</td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1440">Current</a></td>  
         </tr>
     </tbody>
 </table>
