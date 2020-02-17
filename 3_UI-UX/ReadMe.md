@@ -1,7 +1,7 @@
 UI / UX
 ==
 At this moment, the UI/UX provided by <a href="https://www.topincs.com/">Topincs</a> is very satisfying ...   
-... and it could embodied a very good "speficiation by sample" !
+... and it could embodied a very good "spefication by sample" !
 
 List of classes
 -
