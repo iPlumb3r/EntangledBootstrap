@@ -17,14 +17,14 @@ Glossary
         <tr>
             <td>Individual</td>
             <td>Individu, Instance, Topic, ...</td>
-            <td>A3</td>
-            <td>A4</td>
+            <td>(Tangible or Intangible) Element of the real world</td>
+            <td></td>
         </tr>
         <tr>
             <td>Class</td>
             <td>Universal, Category, Topic Type, ...</td>
-            <td>B3</td>
-            <td>B4</td>
+            <td>Set of element who are sharing some chracteristics : properties and/or relations (between others elements)</td>
+            <td></td>
         </tr>
     </tbody>
 </table>
