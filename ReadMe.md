@@ -60,7 +60,12 @@ Table of Content
             <td></td>
         </tr>  
         <tr>
-            <td><a href="https://github.com/iPlumb3r/EntangledBootstrap/tree/master/4_GuideLines">Guide Lines</a></td>
+            <td><a href="https://github.com/iPlumb3r/EntangledBootstrap/tree/master/4_Functionalities">Functionalities</a></td>
+            <td>Required functions for the EBR application</td>
+            <td></td>
+        </tr> 
+        <tr>
+            <td><a href="https://github.com/iPlumb3r/EntangledBootstrap/tree/master/5_GuideLines">Guide Lines</a></td>
             <td>Best pratices to follow (or to be - strongly - inspired by) for implementation purposes</td>
             <td></td>
         </tr>  
