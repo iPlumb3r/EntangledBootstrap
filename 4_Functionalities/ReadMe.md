@@ -22,7 +22,7 @@ Glossary
         </tr>
         <tr>
             <td>Class</td>
-            <td>Universal, Topic Type, ...</td>
+            <td>Universal, Category, Topic Type, ...</td>
             <td>B3</td>
             <td>B4</td>
         </tr>
