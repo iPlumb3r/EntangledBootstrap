@@ -9,4 +9,4 @@ List of classes
 
 Topic Card
 -
-![Topic Card](https://github.com/iPlumb3r/EntangledBootstrap/blob/master/images/Topincs_TopicCard_2020-02-17.png)
+![Topic Card](https://github.com/iPlumb3r/EntangledBootstrap/blob/master/images/Topincs_TopicCard_2020-02-18.png)
