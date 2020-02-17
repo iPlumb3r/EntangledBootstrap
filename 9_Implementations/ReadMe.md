@@ -57,3 +57,8 @@ Table of the EBR implementations
         </tr>
     </tbody>
 </table>
+
+Implementation Strategie
+-
+first : implements EBR in a "centralized" way (Topincs, The Networker, Odase) in order to validate both functionalities & UI
+second : implements ERB in a distributed way (SemApps ?, Holochain)
