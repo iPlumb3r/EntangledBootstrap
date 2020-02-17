@@ -89,6 +89,7 @@ For the "Distribution" aspect (Distributed Web)
             <th>Techology</th>
             <th>Domain</th>
             <th>Comment</th>
+            <th>EBR Topic</th>
         </tr>
     </thead>
     <tbody>
@@ -96,6 +97,7 @@ For the "Distribution" aspect (Distributed Web)
             <td><a href="https://holochain.org/">Holochain</a></td>
             <td>Fully Distributed Apps</td>
             <td></td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1440">EBR URL</a></td>
         </tr>
     </tbody>
 </table>
