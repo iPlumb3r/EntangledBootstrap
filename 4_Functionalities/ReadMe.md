@@ -16,13 +16,13 @@ Glossary
     <tbody>
         <tr>
             <td>Individual</td>
-            <td>A2</td>
+            <td>Individu, Instance, Topic, ...</td>
             <td>A3</td>
             <td>A4</td>
         </tr>
         <tr>
             <td>Class</td>
-            <td>B2</td>
+            <td>Universal, Topic Type, ...</td>
             <td>B3</td>
             <td>B4</td>
         </tr>
