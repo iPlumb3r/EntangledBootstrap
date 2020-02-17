@@ -54,6 +54,7 @@ For the "Semantic" aspect (Semantic Web)
             <th>Techology</th>
             <th>Domain</th>
             <th>Comment</th>
+            <th>EBR Topic</th>
         </tr>
     </thead>
     <tbody>
@@ -61,21 +62,25 @@ For the "Semantic" aspect (Semantic Web)
             <td><a href="https://en.wikipedia.org/wiki/Topic_map">Topic Maps</a></td>
             <td>Business Model / Ontology</td>
             <td>No Topic Maps - based "Open Source" tool available !</td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1437">EBR URL</a></td>
         </tr>
         <tr>
             <td><a href="https://www.w3.org/OWL/">Ontology Web Language (OWL)</a></td>
             <td>Business Model / Ontology</td>
             <td></td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1466">EBR URL</a></td>
         </tr>
         <tr>
             <td><a href="https://www.w3.org/Submission/SWRL/">Semantic Web Rule Language  (SWRL)</a></td>
             <td>Business Rules</td>
             <td></td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1536">EBR URL</a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/AtomGraph/Linked-Data-Templates">Linked Data Templates</a></td>
             <td>Semantic-Driven Forms</td>
             <td></td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/2231">EBR URL</a></td>
         </tr>
     </tbody>
 </table>
