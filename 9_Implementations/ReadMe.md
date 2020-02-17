@@ -5,7 +5,7 @@ The EBR is currently and/or potentially available using differents technologies 
 
 ... where each technology focus on a given "Main Driver" (either "semantic", either "distribution")
 
-And when the "Main Driver" is "semantic", technologies could differ by the "Ontology Paradigm" (Topic Mpas or OWL)
+And when the "Main Driver" is "semantic", technologies could differ by the "Ontology Paradigm" (Topic Maps or OWL)
 
 Table of the EBR implementations
 -
