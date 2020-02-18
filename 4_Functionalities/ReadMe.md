@@ -30,7 +30,7 @@ Glossary
             <td>Property</td>
             <td>Attribute, Occurence, ...</td>
             <td>Characteric of a #Class</td>
-            <td>Domain of characeristic are mostly textual or numeric</td>
+            <td>Domain of characteristic are mostly textual or numeric</td>
         </tr>
         <tr>
             <td>Relation</td>
