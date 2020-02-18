@@ -134,7 +134,7 @@ UF-05 : Associate a new #Class to already "typed" #Individual (multi-typing)
 -
 Be able to associate an already "typed" #Individual to another #Class (in conjonction with the 1st one)   
 Remark : Most of the time the 1st association is made with a #IntentionalClass ...   
-... and the 2nd one is made with an #EntensionalClass   
+... and the 2nd one is made with an #ExtensionalClass   
 Associated properties and/or relations, should be diplay as followed : 
 * #IntentionalClass properties and/or relations, then #ExtensionalClass properties and/or relations
 * Or, in separate tabs
