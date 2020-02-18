@@ -116,11 +116,12 @@ This #Individual creation allow the user to define some key information about it
 
 UF-02 : Advanced #Individual creation
 -
-Text text ...
+Be able to create a #Individual while associating it to a given #Class   
+This #Individual creation allow the user to define informations specified at #Class level
 
 UF-03 : Associate an existing #Individual to a #Class
 -
-Text text ...
+Be able to associate an already existing #Individual (not typed) to a given #Class
 
 Admin Functions
 ==
