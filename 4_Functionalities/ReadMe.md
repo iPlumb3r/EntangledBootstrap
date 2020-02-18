@@ -42,47 +42,32 @@ Glossary
 </table>
 
 
-Functions
--
+User Functions
+==
 
-<table>
-    <thead>
-        <tr>
-            <th>Name</th>
-            <th>Description</th>
-            <th>Comment</th>            
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-                <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-                <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-    </tbody>
-</table>
+UF-01
+-
+Text text ...
+
+UF-02
+-
+Text text ...
+
+UF-03
+-
+Text text ...
+
+Admin Functions
+==
+
+AF-01
+-
+Text text ...
+
+AF-02
+-
+Text text ...
+
+AF-03
+-
+Text text ...
