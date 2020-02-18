@@ -122,6 +122,7 @@ This #Individual creation allow the user to define informations specified at #Cl
 UF-03 : Associate an existing #Individual to a #Class
 -
 Be able to associate an already existing #Individual (not typed) to a given #Class
+This association allow the user to define informations specified at #Class level
 
 Admin Functions
 ==
