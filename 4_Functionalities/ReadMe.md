@@ -50,7 +50,7 @@ UF-01 : Basic #Individual creation
 Be able to create a #Individual without having to specify for it a given specific #Class   
 (In this case the #Individual is "de facto"  associated to the "root" #Class "Thing")
 
-This #Individual creation allow the user to define some key information about it
+This #Individual creation allow the user to define some key information about it :
 <table>
     <thead>
         <tr>
@@ -117,12 +117,20 @@ This #Individual creation allow the user to define some key information about it
 UF-02 : Advanced #Individual creation
 -
 Be able to create a #Individual while associating it to a given #Class   
-This #Individual creation allow the user to define informations specified at #Class level
+This #Individual creation allow the user to define characteristics (properties and/or relations) specified at #Class level
 
 UF-03 : Associate an existing #Individual to a #Class
 -
-Be able to associate an already existing #Individual (not typed) to a given #Class
-This association allow the user to define informations specified at #Class level
+Be able to associate an already existing #Individual (not already "typed") to a given #Class
+This association allow the user to define characteristics (properties and/or relations)  specified at #Class level
+
+UF-04 : Change the #Class of an already "typed" #Individual
+-
+
+
+UF-05 : Associate a new #Class to already "typed" #Individual (multi-typing)
+-
+
 
 Admin Functions
 ==
