@@ -48,7 +48,7 @@ User Functions
 UF-01 : Basic #Individual creation
 -
 Be able to create a #Individual without having to specify for it a given specific #Class   
-(In this case the #Individual is "de facto"  associated to the "root" Thing #Class)
+(In this case the #Individual is "de facto"  associated to the "root" #Class "Thing")
 
 This #Individual creation allow the user to define some key information about it
 <table>
@@ -64,52 +64,52 @@ This #Individual creation allow the user to define some key information about it
     <tbody>
         <tr>
             <td>Prefered Label</td>
-            <td>A2</td>
-            <td>A3</td>
-            <td>A2</td>
-            <td>A3</td>
+            <td>Property</td>
+            <td>Text</td>
+            <td>1</td>
+            <td>1</td>
         </tr>
         <tr>
             <td>Alternative Label</td>
-            <td>A2</td>
-            <td>A3</td>
-            <td>A2</td>
-            <td>A3</td>
+            <td>Property</td>
+            <td>Text</td>
+            <td>0</td>
+            <td>N</td>
         </tr>
         <tr>
             <td>Description</td>
-            <td>A2</td>
-            <td>A3</td>
-            <td>A2</td>
-            <td>A3</td>
+            <td>Property</td>
+            <td>Text</td>
+            <td>0</td>
+            <td>1</td>
         </tr>
         <tr>
             <td>Comment</td>
-            <td>A2</td>
-            <td>A3</td>
-            <td>A2</td>
-            <td>A3</td>
+            <td>Property</td>
+            <td>Text</td>
+            <td>0</td>
+            <td>N</td>
         </tr>
         <tr>
             <td>Home Page</td>
-            <td>A2</td>
-            <td>A3</td>
-            <td>A2</td>
-            <td>A3</td>
+            <td>Property</td>
+            <td>URL</td>
+            <td>0</td>
+            <td>1</td>
         </tr>
         <tr>
             <td>About Page</td>
-            <td>A2</td>
-            <td>A3</td>
-            <td>A2</td>
-            <td>A3</td>
+            <td>Property</td>
+            <td>URL</td>
+            <td>0</td>
+            <td>N</td>
         </tr>
         <tr>
             <td>Documented By</td>
-            <td>A2</td>
-            <td>A3</td>
-            <td>A2</td>
-            <td>A3</td>
+            <td>Relation</td>
+            <td>#Document</td>
+            <td>0</td>
+            <td>N</td>
         </tr>
     </tbody>
 </table>
