@@ -45,15 +45,79 @@ Glossary
 User Functions
 ==
 
-UF-01
+UF-01 : Basic #Individual creation
+-
+Be able to create a #Individual without having to specify for it a given specific #Class (In this case the #Individual is "de facto"  associated to the "root" Thing #Class)
+
+This #Individual creation allow the user to define some key information about it
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Type</th>
+            <th>Range</th>
+            <th>Min Card</th>
+            <th>Max Card</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Prefered Label</td>
+            <td>A2</td>
+            <td>A3</td>
+            <td>A2</td>
+            <td>A3</td>
+        </tr>
+        <tr>
+            <td>Alternative Label</td>
+            <td>A2</td>
+            <td>A3</td>
+            <td>A2</td>
+            <td>A3</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>A2</td>
+            <td>A3</td>
+            <td>A2</td>
+            <td>A3</td>
+        </tr>
+        <tr>
+            <td>Comment</td>
+            <td>A2</td>
+            <td>A3</td>
+            <td>A2</td>
+            <td>A3</td>
+        </tr>
+        <tr>
+            <td>Home Page</td>
+            <td>A2</td>
+            <td>A3</td>
+            <td>A2</td>
+            <td>A3</td>
+        </tr>
+        <tr>
+            <td>About Page</td>
+            <td>A2</td>
+            <td>A3</td>
+            <td>A2</td>
+            <td>A3</td>
+        </tr>
+        <tr>
+            <td>Documented By</td>
+            <td>A2</td>
+            <td>A3</td>
+            <td>A2</td>
+            <td>A3</td>
+        </tr>
+    </tbody>
+</table>
+
+UF-02 : Advanced #Individual creation
 -
 Text text ...
 
-UF-02
--
-Text text ...
-
-UF-03
+UF-03 : Associate an existing #Individual to a #Class
 -
 Text text ...
 
