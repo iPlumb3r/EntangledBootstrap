@@ -47,7 +47,8 @@ User Functions
 
 UF-01 : Basic #Individual creation
 -
-Be able to create a #Individual without having to specify for it a given specific #Class (In this case the #Individual is "de facto"  associated to the "root" Thing #Class)
+Be able to create a #Individual without having to specify for it a given specific #Class   
+(In this case the #Individual is "de facto"  associated to the "root" Thing #Class)
 
 This #Individual creation allow the user to define some key information about it
 <table>
