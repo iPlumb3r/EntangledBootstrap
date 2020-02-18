@@ -26,6 +26,12 @@ Glossary
             <td>Set of elements who are sharing some characteristics : properties and/or relations (between others elements)</td>
             <td></td>
         </tr>
+        <tr>
+            <td>Property</td>
+            <td>Attribute, Occurence, ...</td>
+            <td>Characteric of a #Class</td>
+            <td>Mostly textual or numeric</td>
+        </tr>
     </tbody>
 </table>
 
