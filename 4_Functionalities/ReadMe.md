@@ -48,7 +48,7 @@ User Functions
 UF-01 : Basic #Individual creation
 -
 Be able to create a #Individual without having to specify for it a given specific #Class   
-(In this case the #Individual is "de facto"  associated to the "root" #Class "Thing")
+Remark : In this case the #Individual is "de facto" associated to the "root" #Class (= Thing)
 
 This #Individual creation allow the user to define some key information about it :
 <table>
@@ -122,15 +122,19 @@ This #Individual creation allow the user to define characteristics (properties a
 UF-03 : Associate an existing #Individual to a #Class
 -
 Be able to associate an already existing #Individual (not already "typed") to a given #Class
-This association allow the user to define characteristics (properties and/or relations)  specified at #Class level
+This association allow the user to define new characteristics (properties and/or relations) specified at #Class level
 
 UF-04 : Change the #Class of an already "typed" #Individual
 -
-
+Be able to associate an already "typed" #Individual to another #Class (instead of the 1st one)
+This association allow the user to define characteristics (properties and/or relations) specified at #Class level for the new #Class
+Characteristics and/or relations not anymore compliants in the context of the news #Class are displayed in red or in another specific tab in order to be deleted (batch deletion feature appreciated)
 
 UF-05 : Associate a new #Class to already "typed" #Individual (multi-typing)
 -
-
+Be able to associate an already "typed" #Individual to another #Class (in conjonction with the 1st one)
+Remark : Most of the time the 1st association is made with a #IntentionalClass ...
+... ans the 2nd one is made with an #EntensionalClass
 
 Admin Functions
 ==
