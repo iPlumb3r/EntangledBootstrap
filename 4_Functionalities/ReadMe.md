@@ -142,14 +142,14 @@ Associated properties and/or relations, should be diplay as followed :
 Admin Functions
 ==
 
-AF-01
+AF-01 : Create #Class
 -
 Text text ...
 
-AF-02
+AF-02 : Define #Class hierarchy
 -
 Text text ...
 
-AF-03
+AF-03 : Define #Class properties & relations
 -
 Text text ...
