@@ -24,7 +24,7 @@ Glossary
             <td>Class</td>
             <td>Universal, Category, Topic Type, ...</td>
             <td>Set of #Individual who are sharing the same characteristics : #Property and/or #Relation (between others elements)</td>
-            <td></td>
+            <td>A class allows to "type" an #Individual</td>
         </tr>
         <tr>
             <td>Property</td>
