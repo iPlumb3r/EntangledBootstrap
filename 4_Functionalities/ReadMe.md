@@ -130,7 +130,7 @@ Be able to associate an already "typed" #Individual to another #Class (instead o
 This association allow the user to define characteristics (properties and/or relations) specified at #Class level for the new #Class   
 Properties and/or relations not anymore compliants in the context of the news #Class are displayed in red or in another specific tab in order to be deleted (batch deletion feature appreciated)   
 
-UF-05 : Associate a new #Class to already "typed" #Individual (multi-typing)
+UF-05 : Associate a new #Class to an already "typed" #Individual (multi-typing)
 -
 Be able to associate an already "typed" #Individual to another #Class (in conjonction with the 1st one)   
 Remark : Most of the time the 1st association is made with a #IntentionalClass ...   
