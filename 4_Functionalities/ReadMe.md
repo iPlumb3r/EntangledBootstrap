@@ -30,7 +30,13 @@ Glossary
             <td>Property</td>
             <td>Attribute, Occurence, ...</td>
             <td>Characteric of a #Class</td>
-            <td>Mostly textual or numeric</td>
+            <td>Domain of characeristic are mostly textual or numeric</td>
+        </tr>
+        <tr>
+            <td>Relation</td>
+            <td>Association, Link, ...</td>
+            <td>Connection between 2 (or several) #Class</td>
+            <td></td>
         </tr>
     </tbody>
 </table>
