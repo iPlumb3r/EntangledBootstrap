@@ -127,7 +127,7 @@ This association allow the user to define new characteristics (properties and/or
 UF-04 : Change the #Class of an already "typed" #Individual
 -
 Be able to associate an already "typed" #Individual to another #Class (instead of the 1st one)   
-This association allow the user to define characteristics (properties and/or relations) specified at #Class level for the new #Class   
+This association allow the user to define characteristics (#Properties and/or #Relations) specified at #Class level for the new #Class   
 Properties and/or relations not anymore compliants in the context of the news #Class are displayed in red or in another specific tab in order to be deleted (batch deletion feature appreciated)   
 
 UF-05 : Associate a new #Class to an already "typed" #Individual (multi-typing)
@@ -135,8 +135,8 @@ UF-05 : Associate a new #Class to an already "typed" #Individual (multi-typing)
 Be able to associate an already "typed" #Individual to another #Class (in conjonction with the 1st one)   
 Remark : Most of the time the 1st association is made with a #IntentionalClass ...   
 ... and the 2nd one is made with an #ExtensionalClass   
-Associated properties and/or relations, should be diplay as followed : 
-* #IntentionalClass properties and/or relations, then #ExtensionalClass properties and/or relations
+Associated #Properties and/or #Relations, should be diplay as followed : 
+* #IntentionalClass characteristics (#Properties and/or #Relations), then #ExtensionalClass characteristics (#Properties and/or #Relations)
 * Or, in separate tabs
 
 Admin Functions
