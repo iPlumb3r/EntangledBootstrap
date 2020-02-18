@@ -23,7 +23,7 @@ Glossary
         <tr>
             <td>Class</td>
             <td>Universal, Category, Topic Type, ...</td>
-            <td>Set of #Individual who are sharing some characteristics : properties and/or relations (between others elements)</td>
+            <td>Set of #Individual who are sharing the same characteristics : #Property and/or #Relation (between others elements)</td>
             <td></td>
         </tr>
         <tr>
