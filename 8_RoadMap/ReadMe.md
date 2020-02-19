@@ -22,7 +22,7 @@ A list of planned releases for the EBR :
             <td>v0</td>
             <td>Proof Of Concept (PoC)</td>
             <td>Test Model</td>
-            <td>Model-Driven</td>
+            <td>Model-Driven (only)</td>
             <td>Topincs</td>
             <td>Current</td>
         </tr>
@@ -30,7 +30,7 @@ A list of planned releases for the EBR :
             <td>v1</td>
             <td>Minimum Viable Product (MVP)</td>
             <td>Intentional Model</td>
-            <td>Model-Driven</td>
+            <td>Model-Driven (only)</td>
             <td>Topincs</td>
             <td>In Design</td>
         </tr>
