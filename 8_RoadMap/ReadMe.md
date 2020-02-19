@@ -78,10 +78,10 @@ It's a "bottom-up" mode, where the knowledge base management functionalities :
 * allows to defines "on-the-fly" new #Property & # Relation for a #Class
 
 This mode is appropriate when the knowledge domain is NOT well defined ...
-... and/or when the Ecosystem Mapping scope should be extended to an unknow new domain
+... and/or when the Ecosystem Mapping scope should be extended to an unknow new domain   
 => This is the case for the extensional aspect of the #Model (= #EntensionalModel)
 
-In this mode, it could appears incoherency #KnowledgeBase and the #Model, is NOT critical, ...
+In this mode, it could appears incoherency #KnowledgeBase and the #Model, is NOT critical, ...   
 ... but those incoherencies should be easily detected, both : 
 * At the #KnowledgeBase level, when some #Individual are characterised by #Property and/or #Relation not allowed at the #Model level
 * At the #Model level, when news #Property and/or #Relation are used by some #Individuals   
