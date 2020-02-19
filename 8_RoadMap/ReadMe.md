@@ -15,7 +15,7 @@ A list of planned releases for the EBR :
             <th>Functional Mode</th>
             <th>Implementation type</th>
             <th>Target Technology</th>
-            <th>Statut</th>
+            <th>Status</th>
         </tr>
     </thead>
     <tbody>
