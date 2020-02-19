@@ -71,7 +71,7 @@ Model-Discovery Mode
 -
 It's a "bottom-up" mode, where the knowledge base management functionalities :   
 * do NOT requires a pre-defined #Model in order to create/instanciate an #Individual.
-* allows create an #Individual with no type
+* allows create an #Individual with no type (or typed "Thing")
 * allows to change the type of an #Individual
 * allows to multi-type an #Individual
 * allows to defines "on-the-fly" new #Property & # Relation for a #Class
