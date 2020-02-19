@@ -24,7 +24,7 @@ A list of planned releases for the EBR :
             <td>Test Model</td>
             <td>Model-Driven (only)</td>
             <td>Centralized</td>
-            <td>Topincs</td>
+            <td><a href="https://www.topincs.com/">Topincs</a></td>
             <td>Current</td>
         </tr>
         <tr>
@@ -33,7 +33,7 @@ A list of planned releases for the EBR :
             <td>Intentional Model</td>
             <td>Model-Driven (only)</td>
             <td>Centralized</td>
-            <td>Topincs</td>
+            <td><a href="https://www.topincs.com/">Topincs</a></td>
             <td>In Design</td>
         </tr>
         <tr>
@@ -42,7 +42,7 @@ A list of planned releases for the EBR :
             <td>Full Model (Intentional + Extentional)</td>
             <td>Model-Driven & Model-Discovery</td>
             <td>Centralized</td>
-            <td>The Networker</td>
+            <td><a href="https://www.infoloom.com/product/">The Networker</a></td> 
             <td>In Study</td>
         </tr>
         <tr>
@@ -51,7 +51,7 @@ A list of planned releases for the EBR :
             <td>Full Model (Intentional + Extentional)</td>
             <td>Model-Driven & Model-Discovery</td>
             <td>Fully Distributed</td>
-            <td>Holochain</td>
+            <td><a href="https://holochain.org/">"Holochain</a></td> 
             <td>In Study</td>
         </tr>
     </tbody>
