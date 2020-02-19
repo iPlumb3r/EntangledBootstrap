@@ -57,32 +57,4 @@ A list of planned releases for the EBR :
     </tbody>
 </table>
 
-Model-Driven Mode
--
-It's a "top-down" mode, where the knowledge base management functionalities :    
-* requires a pre-defined #Model in order to create/instanciate any #Individual   
 
-This mode is appropriate when the knowledge domain is well-know and could be easily formalized   
-=> This is the case for the __intentional aspect__ of the #Model (= #IntentionalModel)   
-
-In this mode, the #KnowledgeBase is always coherent with the #Model
-
-Model-Discovery Mode
--
-It's a "bottom-up" mode, where the knowledge base management functionalities :   
-* do NOT requires a pre-defined #Model in order to create/instanciate an #Individual.
-* allows create an #Individual with no type (or typed "Thing")
-* allows to change the type of an #Individual
-* allows to multi-type an #Individual
-* allows to defines "on-the-fly" new #Property & # Relation for a #Class
-
-This mode is appropriate when the knowledge domain is NOT well defined ...
-... and/or when the Ecosystem Mapping scope should be extended to an unknow new domain   
-=> This is the case for the __extensional aspect__ of the #Model (= #EntensionalModel)
-
-In this mode, it could appears incoherency #KnowledgeBase and the #Model, is NOT critical, ...   
-... but those incoherencies should be easily detected, both : 
-* At the #KnowledgeBase level, when some #Individual are characterised by #Property and/or #Relation not allowed at the #Model level
-* At the #Model level, when news #Property and/or #Relation are used by some #Individuals   
-
-=> This could permit the User to solve incoherencies, either by deleting "wrong" information at the #KnowledgeBase level, either by accepting new "rigth" constraints at the #Model level
