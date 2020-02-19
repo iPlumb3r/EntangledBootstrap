@@ -37,6 +37,12 @@ Glossary
             <td>Association, Link, ...</td>
             <td>Connection between 2 (or several) #Class</td>
             <td></td>
+         <tr>            
+             <td>Model</td>
+             <td>Ontology, ...</td>
+             <td>Set of #Class,characterized by #Property & connected via #Relation</td>
+             <td></td>
+        </tr>
         </tr>
     </tbody>
 </table>
