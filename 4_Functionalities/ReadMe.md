@@ -40,7 +40,7 @@ Glossary
          <tr>            
              <td>Model</td>
              <td>Ontology, ...</td>
-             <td>Set of #Class,characterized by #Property & connected via #Relation</td>
+             <td>Set of #Class, characterized by #Property & connected via #Relation</td>
              <td></td>
         </tr>
         </tr>
