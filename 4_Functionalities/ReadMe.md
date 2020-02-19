@@ -47,7 +47,7 @@ Glossary
              <td>Knowledge Base</td>
              <td>Individuals, ...</td>
              <td>Set of #Individuals, characterized by #Property & connected via #Relation</td>
-             <td></td>
+             <td>In theory compliant with constraints defined at the #Model level</td>
         </tr>
         </tr>
     </tbody>
