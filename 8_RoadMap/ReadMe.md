@@ -64,7 +64,7 @@ It's a "top-down" mode, where the knowledge base management functionalities :
 * requires a pre-defined #Model in order to create/instanciate any #Individual   
 
 This mode is appropriate when the knowledge domain is well-know and could be easily formalized   
-=> This is the case for the intentional aspect of the #Model (= #IntentionalModel)   
+=> This is the case for the __intentional aspect__ of the #Model (= #IntentionalModel)   
 
 In this mode, the #KnowledgeBase is always coherent with the #Model
 
@@ -79,7 +79,7 @@ It's a "bottom-up" mode, where the knowledge base management functionalities :
 
 This mode is appropriate when the knowledge domain is NOT well defined ...
 ... and/or when the Ecosystem Mapping scope should be extended to an unknow new domain   
-=> This is the case for the extensional aspect of the #Model (= #EntensionalModel)
+=> This is the case for the __extensional aspect__ of the #Model (= #EntensionalModel)
 
 In this mode, it could appears incoherency #KnowledgeBase and the #Model, is NOT critical, ...   
 ... but those incoherencies should be easily detected, both : 
