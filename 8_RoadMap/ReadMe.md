@@ -51,7 +51,7 @@ A list of planned releases for the EBR :
             <td>Full Model (Intentional + Extentional)</td>
             <td>Model-Driven & Model-Discovery</td>
             <td>Fully Distributed</td>
-            <td><a href="https://holochain.org/">"Holochain</a></td> 
+            <td><a href="https://holochain.org/">Holochain</a></td> 
             <td>In Study</td>
         </tr>
     </tbody>
