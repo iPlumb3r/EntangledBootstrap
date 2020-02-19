@@ -39,7 +39,7 @@ Glossary
             <td></td>
          <tr>            
              <td>Model</td>
-             <td>Ontology, ...</td>
+             <td>Template, Ontology, ...</td>
              <td>Set of #Class, characterized by #Property & connected via #Relation</td>
              <td></td>
         </tr>
