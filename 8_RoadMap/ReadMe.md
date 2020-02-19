@@ -13,6 +13,7 @@ A list of planned releases for the EBR :
             <th>Name</th>
             <th>Model Scope</th>
             <th>Functional Mode</th>
+            <th>Implementation type</th>
             <th>Target Technology</th>
             <th>Comment</th>
         </tr>
@@ -23,6 +24,7 @@ A list of planned releases for the EBR :
             <td>Proof Of Concept (PoC)</td>
             <td>Test Model</td>
             <td>Model-Driven (only)</td>
+            <td>Centalized</td>
             <td>Topincs</td>
             <td>Current</td>
         </tr>
@@ -31,6 +33,7 @@ A list of planned releases for the EBR :
             <td>Minimum Viable Product (MVP)</td>
             <td>Intentional Model</td>
             <td>Model-Driven (only)</td>
+            <td>Centalized</td>
             <td>Topincs</td>
             <td>In Design</td>
         </tr>
@@ -39,6 +42,7 @@ A list of planned releases for the EBR :
             <td>Full Viable Product (FVP)</td>
             <td>Full Model (Intentional + Extentional)</td>
             <td>Model-Driven & Model-Discovery</td>
+            <td>Centalized</td>
             <td>The Networker</td>
             <td>In Study</td>
         </tr>
@@ -47,6 +51,7 @@ A list of planned releases for the EBR :
             <td>Final Product (FP)</td>
             <td>Full Model (Intentional + Extentional)</td>
             <td>Model-Driven & Model-Discovery</td>
+            <td>Fully Distributed</td>
             <td>Holochain</td>
             <td>In Study</td>
         </tr>
