@@ -72,7 +72,7 @@ It's a "bottom-up" mode, where the knowledge base management functionalities :
 * allows to multi-type an #Individual
 * allows to defines "on-the-fly" new #Property & # Relation for a #Class
 
-This mode is appropriate when the knowledge domain is NOT well defined ...
+This mode is appropriate when the knowledge domain is NOT well defined ...   
 ... and/or when the Ecosystem Mapping scope should be extended to an unknow new domain   
 => This is the case for the __extensional aspect__ of the #Model (= #ExtensionalModel)
 
