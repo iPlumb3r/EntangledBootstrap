@@ -1,6 +1,5 @@
 RoadMap
 ==
-To Be Completed ...
 
 Planned Releases
 -
