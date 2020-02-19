@@ -24,7 +24,7 @@ A list of planned releases for the EBR :
             <td>Proof Of Concept (PoC)</td>
             <td>Test Model</td>
             <td>Model-Driven (only)</td>
-            <td>Centalized</td>
+            <td>Centralized</td>
             <td>Topincs</td>
             <td>Current</td>
         </tr>
@@ -33,7 +33,7 @@ A list of planned releases for the EBR :
             <td>Minimum Viable Product (MVP)</td>
             <td>Intentional Model</td>
             <td>Model-Driven (only)</td>
-            <td>Centalized</td>
+            <td>Centralized</td>
             <td>Topincs</td>
             <td>In Design</td>
         </tr>
@@ -42,7 +42,7 @@ A list of planned releases for the EBR :
             <td>Full Viable Product (FVP)</td>
             <td>Full Model (Intentional + Extentional)</td>
             <td>Model-Driven & Model-Discovery</td>
-            <td>Centalized</td>
+            <td>Centralized</td>
             <td>The Networker</td>
             <td>In Study</td>
         </tr>
