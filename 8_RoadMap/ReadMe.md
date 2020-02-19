@@ -57,4 +57,7 @@ A list of planned releases for the EBR :
     </tbody>
 </table>
 
+Remarks
+-
+Functional Modes "Model-Driven Mode" & "Model-Discovery Mode" are explained more precisely in the <a href="https://github.com/iPlumb3r/EntangledBootstrap/blob/master/4_Functionalities/ReadMe.md">"Functionalities"</a> section
 
