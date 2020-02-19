@@ -61,8 +61,21 @@ A list of planned releases for the EBR :
 Model-Driven Mode
 -
 It's a "top-down" mode, where the knowledge base management functionalities :    
-   - requires a pre-defined #Model in order to create/instanciate any #Individual   
+* requires a pre-defined #Model in order to create/instanciate any #Individual   
 
 This mode is appropriate when the knowledge domain is well-know and could be easily formalized   
 => This is the case for the intentional aspect of the #Model (= #IntentionalModel)   
 
+
+Model-Discovery Mode
+-
+It's a "bottom-up" mode, where the knowledge base management functionalities :   
+* do NOT requires a pre-defined #Model in order to create/instanciate an #Individual.
+* allows create an #Individual with no type
+* allows to change the type of an #Individual
+* allows to multi-type an #Individual
+* allows to defines "on-the-fly" new #Property & # Relation for a #Class
+
+This mode is appropriate when the knowledge domain is NOT well defined ...
+... and/or when the Ecosystem Mapping scope should be extended to an unknow new domain
+=> This is the case for the extensional aspect of the #Model (= #EntensionalModel)
