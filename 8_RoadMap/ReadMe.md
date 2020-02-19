@@ -58,7 +58,11 @@ A list of planned releases for the EBR :
     </tbody>
 </table>
 
-Modes
+Model-Driven Mode
 -
-To Be Completed ...
+It's a "top-down" mode, where the knowledge base management functionalities :    
+   - requires a pre-defined #Model in order to create/instanciate any #Individual   
+
+This mode is appropriate when the knowledge domain is well-know and could be easily formalized   
+=> This is the case for the intentional aspect of the #Model (= #IntentionalModel)   
 
