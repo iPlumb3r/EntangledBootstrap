@@ -74,7 +74,7 @@ It's a "bottom-up" mode, where the knowledge base management functionalities :
 
 This mode is appropriate when the knowledge domain is NOT well defined ...
 ... and/or when the Ecosystem Mapping scope should be extended to an unknow new domain   
-=> This is the case for the __extensional aspect__ of the #Model (= #EntensionalModel)
+=> This is the case for the __extensional aspect__ of the #Model (= #ExtensionalModel)
 
 In this mode, it could appears incoherency #KnowledgeBase and the #Model, is NOT critical, ...   
 ... but those incoherencies should be easily detected, both : 
