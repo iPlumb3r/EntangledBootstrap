@@ -40,12 +40,12 @@ Glossary
          <tr>            
              <td>Model</td>
              <td>Template, Ontology, ...</td>
-             <td>Set of #Class, constrained by #Property & connected via #Relation</td>
+             <td>Set of #Class, constrained by #Property and/or #Relation between other(s) #Class</td>
              <td></td>
         </tr>
          <tr>            
              <td>Knowledge Base</td>
-             <td>Individuals</td>
+             <td>Individuals, ...</td>
              <td>Set of #Individuals, characterized by #Property & connected via #Relation</td>
              <td></td>
         </tr>
