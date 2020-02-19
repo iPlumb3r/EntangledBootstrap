@@ -14,7 +14,7 @@ A list of planned releases for the EBR :
             <th>Model Scope</th>
             <th>Functional Mode</th>
             <th>Target Technology</th>
-            <thComment</th>
+            <th>Comment</th>
         </tr>
     </thead>
     <tbody>
@@ -38,17 +38,17 @@ A list of planned releases for the EBR :
             <td>v2</td>
             <td>Full Viable Product (FVP)</td>
             <td>Full Model (Intentional + Extentional)</td>
-            <td>Model-Drive & Model-Discovery</td>
+            <td>Model-Driven & Model-Discovery</td>
             <td>The Networker</td>
-            <td>A3</td>
+            <td>In Study</td>
         </tr>
-              <tr>
-            <td>A1</td>
-            <td>A2</td>
-            <td>A3</td>
-            <td>A1</td>
-            <td>A2</td>
-            <td>A3</td>
+        <tr>
+            <td>v3</td>
+            <td>Final Product (FP)</td>
+            <td>Full Model (Intentional + Extentional)</td>
+            <td>Model-Driven & Model-Discovery</td>
+            <td>Holochain</td>
+            <td>In Study</td>
         </tr>
     </tbody>
 </table>
