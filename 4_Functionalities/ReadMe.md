@@ -57,7 +57,7 @@ Functional Modes
 ==
 All required functions for the EBR (Cf next sections) are defined in order to be compliant with one or the other (or both) of the following functional mode : 
 * Model-Driven Mode
-* Model-Discovery Mode
+* Model-Discovery Mode => Reconciliation Mode
 
 Model-Driven Mode
 -
@@ -87,7 +87,9 @@ In this mode, it could appears __incoherencies__ between the #KnowledgeBase and 
 * At the #KnowledgeBase level, when some #Individual are characterised by #Property and/or #Relation not allowed at the #Model level
 * At the #Model level, when new #Property and/or #Relation are used by some #Individuals   
 
-=> This could permit the User to solve __incoherencies__ : 
+Reconciliation Mode
+-
+=> This mode permit the User to solve __incoherencies__ : 
 * either by deleting "wrong" information at the #KnowledgeBase level, 
 * either by accepting new "rigth" constraints at the #Model level.
 
