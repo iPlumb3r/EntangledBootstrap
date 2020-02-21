@@ -82,8 +82,8 @@ This mode is appropriate when the knowledge domain is NOT well defined ...
 ... and/or when the Ecosystem Mapping scope should be extended to an unknow new domain   
 => This is the case for the __extensional aspect__ of the #Model (= #ExtensionalModel)
 
-In this mode, it could appears incoherencies #KnowledgeBase and the #Model, is NOT critical, ...   
-... but those incoherencies should be easily detected, both : 
+In this mode, it could appears __incoherencies__ between the #KnowledgeBase and the #Model, BUT this is NOT critical, ...   
+... IF those incoherencies should be easily detected, both : 
 * At the #KnowledgeBase level, when some #Individual are characterised by #Property and/or #Relation not allowed at the #Model level
 * At the #Model level, when news #Property and/or #Relation are used by some #Individuals   
 
