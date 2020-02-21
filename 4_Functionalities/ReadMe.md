@@ -55,9 +55,9 @@ Glossary
 
 Functional Modes
 ==
-All required functions for the EBR (Cf next sections) are defined in order to be compliant with one or the other (or both) of the following functional mode : 
+All required functions for the EBR (Cf next sections) are defined in order to be compliant with one or the other (or both) of the following functional modes : 
 * Model-Driven Mode
-* Model-Discovery Mode => Reconciliation Mode
+* Model-Discovery Mode (=> Reconciliation Mode)
 
 Model-Driven Mode
 -
