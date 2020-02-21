@@ -87,7 +87,7 @@ In this mode, it could appears __incoherencies__ between the #KnowledgeBase and 
 * At the #KnowledgeBase level, when some #Individual are characterised by #Property and/or #Relation not allowed at the #Model level
 * At the #Model level, when news #Property and/or #Relation are used by some #Individuals   
 
-=> This could permit the User to solve incoherencies : 
+=> This could permit the User to solve __incoherencies__ : 
 * either by deleting "wrong" information at the #KnowledgeBase level, 
 * either by accepting new "rigth" constraints at the #Model level.
 
