@@ -85,7 +85,7 @@ Table of Content
 Resources
 -
 * <a href="https://t.me/EntangledBootstrap">"Public" EBR Telegram Group</a>.  
-* <a href="https://www.topincs.com/EntangledBootstrap/">Topincs "Current" Implementation</a>. 
+* <a href="https://www.topincs.com/EntangledBootstrap/">"Current" Topincs Implementation</a>. 
 * <a href="https://www.topincs.com/EntangledBootstrap/1414">Topic of the EBR itself (In the Topincs-based RBR)</a>.  
 
 Similar Project
