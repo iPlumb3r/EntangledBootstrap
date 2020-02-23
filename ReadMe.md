@@ -20,7 +20,7 @@ Identify and inter-connect all relevant « ingredients » : norms/standards/sp
 
 Proposed Deliverable
 -
-This initiative aims is to provide a __semantic cartography__ of the intersection between 2 distincts but complementary __ecosystems__ :
+This repository aims to provide a __semantic cartography__ of the intersection between 2 distincts but complementary __ecosystems__ :
 * the __semantic web / semantic technologies__ ecosystem
 * the __decentralized web / distributed web__ ecosystem 
 
