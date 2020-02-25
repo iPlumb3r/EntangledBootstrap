@@ -3,7 +3,8 @@ RoadMap
 
 Planned Releases
 -
-A list of planned releases for the EBR :   
+A list of planned releases of prototype for the EBR :
+(Each prototype aims to specifiy "by sample" a given set of functionalities)
 
 <table>
     <thead>
