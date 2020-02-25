@@ -38,7 +38,7 @@ A list of planned releases for the EBR :
         </tr>
         <tr>
             <td>v2</td>
-            <td>Full Viable Product (FVP)</td>
+            <td>Minimum Viable Product (MVP)</td>
             <td>Extentional Model</td>
             <td>Model-Discovery</td>
             <td>Centralized</td>
