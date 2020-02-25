@@ -40,9 +40,9 @@ A list of planned releases for the EBR :
             <td>v2</td>
             <td>Full Viable Product (FVP)</td>
             <td>Full Model (Intentional + Extentional)</td>
-            <td>Model-Driven & Model-Discovery</td>
+            <td>Model-Discovery</td>
             <td>Centralized</td>
-            <td><a href="https://www.infoloom.com/product/">The Networker</a></td> 
+            <td><a href="https://www.infoloom.com/product/">The Networker</a> or <a href="http://keeplink.com/">Keep Link</a></td> 
             <td>In Study</td>
         </tr>
         <tr>
