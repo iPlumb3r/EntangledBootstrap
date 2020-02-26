@@ -86,7 +86,8 @@ Resources
 -
 * <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/ReadMe.md">Ecosystem Mapping Model (E2M)</a>. 
 * <a href="https://t.me/EntangledBootstrap">"Public" EBR Telegram Group</a>.  
-* <a href="https://www.topincs.com/EntangledBootstrap/">"Current" Topincs Implementation</a>. 
+* <a href="https://www.topincs.com/EntangledBootstrap/">"Current" Topincs Implementation (Production)</a>. 
+* <a href="https://www.topincs.com/iPlumb3rSandBox/">"Current" Topincs Implementation (Test)</a>.
 * <a href="https://www.topincs.com/EntangledBootstrap/1414">Topic of the EBR itself (In the Topincs-based RBR)</a>.  
 
 Similar Project
