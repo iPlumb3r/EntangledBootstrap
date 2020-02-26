@@ -15,6 +15,12 @@ The conceptionnary provide label and description for concepts used in the model
 List of Intentional Concepts
 ![Intentional Concepts](https://github.com/iPlumb3r/EntangledBootstrap/blob/master/images/IntentionalConcepts_2020-02-16.png)
 
-Model
+Conceptual Model
 -
 ![Semantic Model](https://github.com/iPlumb3r/EntangledBootstrap/blob/master/images/SemanticModel_2020-02-15.png)
+
+Ontology
+-
+This conceptual model is "implemented" into 2 differents ontology paradigm : 
+* Topic Maps
+* OWL (Not available at this moment)
