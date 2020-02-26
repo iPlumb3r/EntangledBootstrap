@@ -21,6 +21,6 @@ Conceptual Model
 
 Ontology
 -
-This conceptual model is "implemented" into 2 differents ontology paradigm : 
+This conceptual model is "implemented" into 2 differents ontology paradigms : 
 * Topic Maps
 * OWL (Not available at this moment)
