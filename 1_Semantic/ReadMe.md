@@ -22,5 +22,6 @@ Conceptual Model
 Ontology
 -
 This conceptual model is "implemented" into 2 differents ontology paradigms : 
-* Topic Maps
-* OWL (Not available at this moment)
+* <a href="https://github.com/iPlumb3r/EntangledBootstrap/blob/master/1_Semantic/TM-Ontology.md">Topic Maps Ontology</a>.
+* OWL Ontology (Not available at this moment)
+
