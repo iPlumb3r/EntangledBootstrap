@@ -2,7 +2,7 @@ Semantic
 ==
 
 The Semantic of the Entangled Bootstrap Repository (EBR)     
-is mainly based on the <a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/1_Semantic">semantic of the Ecosystem Mapping Model (E2M)</a> : 
+is mainly based on the <a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/1_Semantic">Semantic of the Ecosystem Mapping Model (E2M)</a> : 
 * The intensional facet of the model is stricly the same
 * The extensional facet of the model is specific
 
