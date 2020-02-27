@@ -6,12 +6,6 @@ is mainly based on the <a href="https://github.com/iPlumb3r/EcosystemMappingMode
 * The intensional facet of the model is stricly the same
 * The extensional facet of the model is specific
 
-Generality
--
-This section is about the 2-level modeling approach for Ecosytem mapping
-* <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/ReasonWhyA2-LevelModel_EN.md">English</a>.
-* <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/ReasonWhyA2-LevelModel_FR.md">Français</a>.
-
 Conceptionary
 -
 The conceptionnary provide label and description for concepts used in the model
