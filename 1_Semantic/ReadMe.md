@@ -4,8 +4,8 @@ Semantic
 Generality
 -
 This section is about the 2-level modeling approach for Ecosytem mapping
-* <a href="https://github.com/iPlumb3r/EntangledBootstrap/blob/master/1_Semantic/Model_EN.md">English</a>.
-* <a href="https://github.com/iPlumb3r/EntangledBootstrap/blob/master/1_Semantic/Model_FR.md">Français</a>.
+* <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/ReasonWhyA2-LevelModel_EN.md">English</a>.
+* <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/ReasonWhyA2-LevelModel_FR.md">Français</a>.
 
 Conceptionary
 -
