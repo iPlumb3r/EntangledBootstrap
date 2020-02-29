@@ -52,7 +52,7 @@ A list of planned releases of prototype for the EBR :
             <td>Full Model (Intentional + Extensional)</td>
             <td>Model-Discovery</td>
             <td>Centralized</td>
-            <td><a href="https://www.odaseontologies.com/">Odase Platform</a></td> 
+            <td><a href="https://www.odaseontologies.com/">Odase Platform "like"</a></td> 
             <td>In Study</td>
         </tr>
         <tr>
