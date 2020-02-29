@@ -43,7 +43,7 @@ A list of planned releases of prototype for the EBR :
             <td>Extensional Model</td>
             <td>Model-Discovery</td>
             <td>Centralized</td>
-            <td><a href="https://www.infoloom.com/product/">The Networker</a> or <a href="http://keeplink.com/">Keep Link</a></td> 
+            <td><a href="http://keeplink.com/">Keep Link</a></td> 
             <td>In Study</td>
         </tr>
         <tr>
