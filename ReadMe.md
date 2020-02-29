@@ -7,7 +7,7 @@ The future of computing will be both based on __strong Semantic__ and __fully Di
 
 Project Id Card
 -
-![EBR IdCard](https://github.com/iPlumb3r/EntangledBootstrap/blob/master/images/EBR_IdCard_2020-02-18.png)
+![EBR IdCard](https://github.com/iPlumb3r/EntangledBootstrap/blob/master/images/IdCard%40EBR_2020-02-29.png)
 
 Tags
 -
