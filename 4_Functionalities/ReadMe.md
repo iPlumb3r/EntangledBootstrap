@@ -55,7 +55,7 @@ Glossary
 
 Functional Modes
 ==
-See <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/4_Functionalitites/FunctionalModes.md">here</a>
+See <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/4_Functionalities/FunctionalModes.md">here</a>
 
 User Functions
 ==
