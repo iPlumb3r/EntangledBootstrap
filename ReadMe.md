@@ -60,7 +60,7 @@ Table of Content
             <td></td>
         </tr>  
         <tr>
-            <td><a href="https://github.com/iPlumb3r/EntangledBootstrap/tree/master/4_Functionalities">Functionalities</a></td>
+            <td><a href="https://github.com/iPlumb3r/EntangledBootstrap/tree/master/4_Functions">Functionalities</a></td>
             <td>Required functions for the EBR application</td>
             <td></td>
         </tr> 
