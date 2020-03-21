@@ -30,7 +30,7 @@ Facilitate the discussion between people from those ecosystems
 
 Table of Content
 -
-__Note__ : This project intensively uses resources from the <a href="https://github.com/iPlumb3r/EcosystemMapping">Ecosystem Mapping</a> initiative (especially <a href="https://github.com/iPlumb3r/EcosystemMapping/tree/master/6_Ontologies">Ecosystem Mapping</a>) : 
+__Note__ : This project intensively uses resources from the <a href="https://github.com/iPlumb3r/EcosystemMapping">Ecosystem Mapping</a> initiative (especially <a href="https://github.com/iPlumb3r/EcosystemMapping/tree/master/6_Ontologies">ontologies</a>) : 
 
 <table>
     <thead>
