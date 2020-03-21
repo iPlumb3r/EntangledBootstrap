@@ -30,6 +30,8 @@ Facilitate the discussion between people from those ecosystems
 
 Table of Content
 -
+__Note__ : This projet intensively uses resource from the <a href="https://github.com/iPlumb3r/EcosystemMapping">Ecosystem Mapping</a> initiative ...
+
 <table>
     <thead>
         <tr>
