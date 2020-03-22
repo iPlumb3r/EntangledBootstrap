@@ -1,5 +1,46 @@
-The <a href="https://www.topincs.com/EntangledBootstrap/">"Entangled Bootstrap"</a> Repository (EBR)
+The <a href="https://www.topincs.com/EntangledBootstrap/">"Entangled Bootstrap"</a> Repositories (EBRs)
 ==
+
+Initiative ID Card
+-
+_Note : EBR ID allows to semantically navigate in the <a href="https://www.topincs.com/EntangledBootstrap/">Topincs-powered "Entangled Bootstrap" Repository</a>_
+
+<table>
+    <thead>
+        <tr>
+            <th>What ?</th>
+            <th>Label</th>
+            <th>EBR ID</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Initiative</th>
+            <td>A Semantic Cartography of the intersection between #SemanticTechnologies & #DistributedWeb Ecosystems</td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1674">#1674</a></td>
+        </tr>
+        <tr>
+            <th>Deliverable</th>
+            <td>"Entangled Bootstrap" Repositories (EBRs)</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <th>Domain</th>
+            <td>Intersection between #SemanticTechnologies & #DistributedWeb Ecosystems</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <th>Uses</th>
+            <td><a href="https://github.com/iPlumb3r/Prism">Ecosystem Mapping</a></td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1677">#1677</a></td>
+        </tr>
+        <tr>
+            <th>Big Picture</th>
+            <td><a href="https://github.com/iPlumb3r/BigPicture">SEAMLESS</a>. See <a href="http://hubject.net/iPlumb3r/GitHub/BigPicture.html">Overview</a></td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1671">#1671</a></td>
+        </tr>
+    </tbody>
+</table>
 
 Vision
 -
