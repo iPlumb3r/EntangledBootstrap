@@ -22,7 +22,7 @@ _Note : EBR ID allows to semantically navigate in the <a href="https://www.topin
         <tr>
             <th>Deliverable</th>
             <td>"Entangled Bootstrap" Repositories (EBRs)</td>
-            <td>N/A</td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1408">#1408</a></td>
         </tr>
         <tr>
             <th>Domain</th>
