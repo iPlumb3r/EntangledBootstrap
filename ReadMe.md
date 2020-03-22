@@ -1,4 +1,4 @@
-The <a href="https://www.topincs.com/EntangledBootstrap/">"Entangled Bootstrap"</a> Repositories (EBRs)
+<a href="https://www.topincs.com/EntangledBootstrap/">"Entangled Bootstrap"</a> Repositories (EBRs)
 ==
 
 Initiative ID Card
