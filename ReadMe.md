@@ -15,9 +15,14 @@ _Note : EBR ID allows to semantically navigate in the <a href="https://www.topin
     </thead>
     <tbody>
         <tr>
-            <th>Initiative</th>
-            <td>The "Entangled Bootstrap" = A Semantic Cartography of the intersection between #SemanticTechnologies & #DistributedWeb Ecosystems</td>
+            <th>Name</th>
+            <td>The "Entangled Bootstrap" Repository(ies) Initiative</td>
             <td><a href="https://www.topincs.com/EntangledBootstrap/1674">#1674</a></td>
+        </tr>
+        <tr>
+            <th>Description</th>
+            <td>A Semantic Cartography of the intersection between #SemanticTechnologies & #DistributedWeb Ecosystems</td>
+            <td>N/A</td>
         </tr>
         <tr>
             <th>Deliverable</th>
