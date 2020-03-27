@@ -1,4 +1,4 @@
-The <a href="https://www.topincs.com/EntangledBootstrap/">"Entangled Bootstrap"</a> 
+The <a href="https://www.topincs.com/EntangledBootstrap/">"Entangled Bootstrap"</a> Initiative
 ==
 
 Initiative ID Card
@@ -16,7 +16,7 @@ _Note : EBR ID allows to semantically navigate in the <a href="https://www.topin
     <tbody>
         <tr>
             <th>Name</th>
-            <td>The "Entangled Bootstrap" Repository(ies) Initiative</td>
+            <td>The "Entangled Bootstrap" Initiative</td>
             <td><a href="https://www.topincs.com/EntangledBootstrap/1674">#1674</a></td>
         </tr>
         <tr>
