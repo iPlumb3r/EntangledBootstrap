@@ -61,24 +61,16 @@ Illustration
 -
 ![Illustation](https://github.com/iPlumb3r/EntangledBootstrap/blob/master/images/IdCard%40EBR_2020-02-29.png)
 
-Vision
--
-The future of computing will be both based on __strong Semantic__ and __fully Distribution__
 
-Targeted Finality 
+Motivation
 -
 Identify and inter-connect all relevant « ingredients » : norms/standards/specifications, softwares, knowledge structures (ontologies, taxonomies, …) …   
 … for designing and building fully distributed & semantic-driven business applications like PLM (Product Lifecycle Management)
-
-Proposed Deliverable
--
-This repository aims to provide a __semantic cartography__ of the intersection between 2 distincts but complementary __ecosystems__ :
-* the __semantic web / semantic technologies__ ecosystem
-* the __decentralized web / distributed web__ ecosystem 
-
-Induced Mean
--
 Facilitate the discussion between people from those ecosystems
+
+Mantra
+-
+> The future of computing will be both based on __strong Semantic__ and __fully Distribution__
 
 Content
 -
