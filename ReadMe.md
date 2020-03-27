@@ -25,6 +25,11 @@ _Note : EBR ID allows to semantically navigate in the <a href="https://www.topin
             <td><a href="https://www.topincs.com/EntangledBootstrap/1408">#1408</a></td>
         </tr>
         <tr>
+            <th>Tags</th>
+            <td>#EcosystemMapping <a href="https://www.topincs.com/EntangledBootstrap/2192">#SemanticCartography</a> #SemanticTechnology <a href="https://www.topincs.com/EntangledBootstrap/1882">#SemanticWeb</a> <a href="https://www.topincs.com/EntangledBootstrap/1851">#DecentralizedWeb</a> <a href="https://www.topincs.com/EntangledBootstrap/1851">#DistributedWeb</a> <a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/OntologyDrivenSoftwareEngineering.md">#OntologyDrivenSoftwareEngineering</a> #SemanticDrivenForms #InferenceEngine</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
             <th>Domain</th>
             <td>Intersection between #SemanticTechnologies & #DistributedWeb Ecosystems</td>
             <td>N/A</td>
@@ -49,10 +54,6 @@ The future of computing will be both based on __strong Semantic__ and __fully Di
 Project Id Card
 -
 ![EBR IdCard](https://github.com/iPlumb3r/EntangledBootstrap/blob/master/images/IdCard%40EBR_2020-02-29.png)
-
-Tags
--
-#EcosystemMapping <a href="https://www.topincs.com/EntangledBootstrap/2192">#SemanticCartography</a> #SemanticTechnology <a href="https://www.topincs.com/EntangledBootstrap/1882">#SemanticWeb</a> <a href="https://www.topincs.com/EntangledBootstrap/1851">#DecentralizedWeb</a> <a href="https://www.topincs.com/EntangledBootstrap/1851">#DistributedWeb</a> <a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/OntologyDrivenSoftwareEngineering.md">#OntologyDrivenSoftwareEngineering</a> #SemanticDrivenForms #InferenceEngine
 
 Targeted Finality 
 -
