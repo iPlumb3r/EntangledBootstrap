@@ -70,7 +70,7 @@ Facilitate the discussion between people from those ecosystems
 
 Mantra
 -
-> The future of computing will be both based on __strong Semantic__ and __fully Distribution__
+> The future of computing will be based on both __strong Semantic__ and __fully Distribution__
 
 Content
 -
