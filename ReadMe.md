@@ -40,6 +40,11 @@ _Note : EBR ID allows to semantically navigate in the <a href="https://www.topin
             <td><a href="https://www.topincs.com/EntangledBootstrap/1675">#1675</a></td>
         </tr>
         <tr>
+            <th>Telegram</th>
+            <td><a href="https://t.me/EntangledBootstrap">EntangledBootstrap</a></td>
+            <td>N/A</td>
+        </tr>
+        <tr>
             <th>Big Picture</th>
             <td><a href="https://github.com/iPlumb3r/BigPicture">SEAMLESS</a>. See <a href="http://hubject.net/iPlumb3r/GitHub/BigPicture.html">Overview</a></td>
             <td><a href="https://www.topincs.com/EntangledBootstrap/1671">#1671</a></td>
@@ -80,7 +85,6 @@ __Note 2__ : This GitHub repository is organized accorging this <a href="https:/
 Resources
 -
 * <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/ReadMe.md">Ecosystem Mapping Model (E2M)</a>   
-* <a href="https://t.me/EntangledBootstrap">"Public" EBR Telegram Group</a>   
 * <a href="https://www.topincs.com/EntangledBootstrap/">"Current" Topincs Implementation (Production)</a>   
 * <a href="https://www.topincs.com/iPlumb3rSandBox/">"Current" Topincs Implementation (Test)</a>   
 * <a href="https://www.topincs.com/EntangledBootstrap/1414">Topic of the EBR itself (In the Topincs-based RBR)</a>     
