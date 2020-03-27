@@ -26,7 +26,7 @@ _Note : EBR ID allows to semantically navigate in the <a href="https://www.topin
         </tr>
         <tr>
             <th>Tags</th>
-            <td>#EcosystemMapping <a href="https://www.topincs.com/EntangledBootstrap/2192">#SemanticCartography</a> #SemanticTechnology <a href="https://www.topincs.com/EntangledBootstrap/1882">#SemanticWeb</a> <a href="https://www.topincs.com/EntangledBootstrap/1851">#DecentralizedWeb</a> <a href="https://www.topincs.com/EntangledBootstrap/1851">#DistributedWeb</a> <a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/9_Resources/OntologyDrivenSoftwareEngineering.md">#OntologyDrivenSoftwareEngineering</a> #SemanticDrivenForms #InferenceEngine</td>
+            <td>#EcosystemMapping <a href="https://www.topincs.com/EntangledBootstrap/1667">#SemanticCartography</a> #SemanticTechnology <a href="https://www.topincs.com/EntangledBootstrap/1666">#SemanticWeb</a> <a href="https://www.topincs.com/EntangledBootstrap/1665">#DecentralizedWeb</a> <a href="https://www.topincs.com/EntangledBootstrap/1665">#DistributedWeb</a> <a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/9_Resources/OntologyDrivenSoftwareEngineering.md">#OntologyDrivenSoftwareEngineering</a> #SemanticDrivenForms #InferenceEngine</td>
             <td>N/A</td>
         </tr>
         <tr>
