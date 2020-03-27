@@ -82,7 +82,6 @@ __Note 2__ : This GitHub repository is organized accorging this <a href="https:/
 Resources
 -
 * <a href="https://www.topincs.com/EntangledBootstrap/">"Current" Topincs Implementation (Production)</a>   
-* <a href="https://www.topincs.com/LegacyEBR/">"Legacy" Topincs Implementation (Test)</a>   
 * <a href="https://www.topincs.com/EntangledBootstrap/1408">Topic of the EBR itself (In the Topincs-based EBR)</a>     
 
 Similar Project
