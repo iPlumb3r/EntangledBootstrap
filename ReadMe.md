@@ -57,9 +57,9 @@ _Note : EBR ID allows to semantically navigate in the <a href="https://www.topin
     </tbody>
 </table>
 
-__Illustration__   
-
-![EBR IdCard](https://github.com/iPlumb3r/EntangledBootstrap/blob/master/images/IdCard%40EBR_2020-02-29.png)
+Illustration
+-
+![Illustation](https://github.com/iPlumb3r/EntangledBootstrap/blob/master/images/IdCard%40EBR_2020-02-29.png)
 
 Vision
 -
