@@ -78,7 +78,6 @@ __Note 1__ : This project intensively uses resources from the <a href="https://g
 
 __Note 2__ : This GitHub repository is organized accorging this <a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/Template/FolderHierarchy.md">Template for GitHub Folder Hierarchy</a>
 
-
 Resources
 -
 * <a href="https://www.topincs.com/EntangledBootstrap/">"Current" Topincs Implementation (Production)</a>   
@@ -87,6 +86,11 @@ Resources
 Similar Project
 -
 * <a href="https://kumu.io/DigLife/decentralized-tech">the Decentralized Tech ecosystem map</a>   
+
+
+Icon
+-
+![Icon](https://github.com/iPlumb3r/EntangledBootstrap/blob/master/images/icon%40EntangledBootstrap.jpg)
 
 Licence 
 -
