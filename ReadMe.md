@@ -21,7 +21,7 @@ _Note : EBR ID allows to semantically navigate in the <a href="https://www.topin
         </tr>
         <tr>
             <th>Description</th>
-            <td>A Semantic Cartography of the intersection between #SemanticTechnologies & #DistributedWeb Ecosystems</td>
+            <td>Built a Semantic Cartography of the intersection between #SemanticTechnologies & #DistributedWeb Ecosystems</td>
             <td>N/A</td>
         </tr>
         <tr>
