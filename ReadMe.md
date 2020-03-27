@@ -70,61 +70,12 @@ Induced Mean
 -
 Facilitate the discussion between people from those ecosystems
 
-Table of Content
+Content
 -
-__Note__ : This project intensively uses resources from the <a href="https://github.com/iPlumb3r/EcosystemMapping">Ecosystem Mapping</a> initiative (especially <a href="https://github.com/iPlumb3r/EcosystemMapping/tree/master/6_Ontologies">ontologies</a>) : 
+__Note 1__ : This project intensively uses resources from the <a href="https://github.com/iPlumb3r/EcosystemMapping">Ecosystem Mapping</a> initiative (especially <a href="https://github.com/iPlumb3r/EcosystemMapping/tree/master/6_Ontologies">ontologies</a>)
 
-<table>
-    <thead>
-        <tr>
-            <th>Section</th>
-            <th>Description</th>
-            <th>Comment</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><a href="https://github.com/iPlumb3r/EntangledBootstrap/tree/master/0_UseCases">Use Cases</a></td>
-            <td>Concretes situations that the EBR initiative must grasp</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/iPlumb3r/EntangledBootstrap/tree/master/1_Semantic">Semantic</a></td>
-            <td>Concepts and model relevant for this ecosystem mapping</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/iPlumb3r/EntangledBootstrap/tree/master/2_Rules">Rules</a></td>
-            <td>Rules for inferring new knowledge from existing asserted knowledge</td>
-            <td></td>
-        </tr>        
-        <tr>
-            <td><a href="https://github.com/iPlumb3r/EntangledBootstrap/tree/master/3_UI-UX">UI / UX</a></td>
-            <td>Input for the target User Interface & Experience</td>
-            <td></td>
-        </tr>  
-        <tr>
-            <td><a href="https://github.com/iPlumb3r/EntangledBootstrap/tree/master/4_Functions">Functions</a></td>
-            <td>Required functions for the EBR application</td>
-            <td></td>
-        </tr> 
-        <tr>
-            <td><a href="https://github.com/iPlumb3r/EntangledBootstrap/tree/master/5_GuideLines">Guide Lines</a></td>
-            <td>Best pratices to follow (or to be - strongly - inspired by) for implementation purposes</td>
-            <td></td>
-        </tr>  
-        <tr>
-            <td><a href="https://github.com/iPlumb3r/EntangledBootstrap/tree/master/7_RoadMap">RoadMap</a></td>
-            <td>A proposed list of stable releases</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/iPlumb3r/EntangledBootstrap/tree/master/8_Implementations">Implementations</a></td>
-            <td>A list of current & potential implementations of the EBR</td>
-            <td>Currently implemented with Topincs</td>
-        </tr>
-    </tbody>
-</table>
+__Note 2__ : This GitHub repository is organized accorging this <a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/Template/FolderHierarchy.md">Template for GitHub Folder Hierarchy</a>
+
 
 Resources
 -
