@@ -79,7 +79,6 @@ __Note 2__ : This GitHub repository is organized accorging this <a href="https:/
 
 Resources
 -
-* <a href="http://hubject.net/iPlumb3r/GitHub/Meta-Map.html">Context Map</a>  
 * <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/ReadMe.md">Ecosystem Mapping Model (E2M)</a>   
 * <a href="https://t.me/EntangledBootstrap">"Public" EBR Telegram Group</a>   
 * <a href="https://www.topincs.com/EntangledBootstrap/">"Current" Topincs Implementation (Production)</a>   
