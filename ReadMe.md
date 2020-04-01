@@ -48,6 +48,11 @@ Initiative ID Card
             <td><a href="https://www.topincs.com/EntangledBootstrap/1675">#1675</a></td>
         </tr>
         <tr>
+            <th>Uses</th>
+            <td><a href="https://github.com/iPlumb3r/Rhizome">Rhizome</a> (Distributed Semantic App)</td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1886">#1886</a></td>
+        </tr>
+        <tr>
             <th>Telegram</th>
             <td><a href="https://t.me/EntangledBootstrap">https://t.me/EntangledBootstrap</a></td>
             <td>N/A</td>
