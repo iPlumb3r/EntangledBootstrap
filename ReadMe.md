@@ -28,6 +28,11 @@ Initiative ID Card
             <td><a href="https://www.topincs.com/EntangledBootstrap/1408">#1408</a></td>
         </tr>
         <tr>
+            <th>Uses</th>
+            <td><a href="https://github.com/iPlumb3r/Rhizome">Rhizome</a> (Distributed Semantic App)</td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1886">#1886</a></td>
+        </tr>
+        <tr>
             <th>Tags</th>
             <td>#EcosystemMapping <a href="https://www.topincs.com/EntangledBootstrap/1667">#SemanticCartography</a> <a href="https://www.topincs.com/EntangledBootstrap/1880">#SemanticTechnologies</a> <a href="https://www.topincs.com/EntangledBootstrap/1666">#SemanticWeb</a> <a href="https://www.topincs.com/EntangledBootstrap/1665">#DecentralizedWeb</a> <a href="https://www.topincs.com/EntangledBootstrap/1665">#DistributedWeb</a> <a href="https://www.topincs.com/EntangledBootstrap/1631">#OntologyDrivenSoftwareEngineering</a> #SemanticDrivenForms #InferenceEngine</td>
             <td>N/A</td>
