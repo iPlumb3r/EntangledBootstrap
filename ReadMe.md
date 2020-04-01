@@ -43,12 +43,17 @@ Initiative ID Card
             <td>N/A</td>
         </tr>
         <tr>
-            <th>Uses</th>
+            <th>Used By (data) </th>
+            <td><a href="https://github.com/iPlumb3r/BigRope">BigRope</a></td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1908">#1908</a></td>
+        </tr>
+        <tr>
+            <th>Uses (model)</th>
             <td><a href="https://github.com/iPlumb3r/EcosystemMapping">Ecosystem Mapping</a></td>
             <td><a href="https://www.topincs.com/EntangledBootstrap/1675">#1675</a></td>
         </tr>
         <tr>
-            <th>Uses</th>
+            <th>Uses (app)</th>
             <td><a href="https://github.com/iPlumb3r/Rhizome">Rhizome</a> (Distributed Semantic App)</td>
             <td><a href="https://www.topincs.com/EntangledBootstrap/1886">#1886</a></td>
         </tr>
