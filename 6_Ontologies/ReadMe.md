@@ -5,4 +5,4 @@ This section depends of <a href="https://github.com/iPlumb3r/EcosystemMapping/bl
 
 Modèle extentionel spécifique pour EBR
 -
-![E2M-e_EBR](https://github.com/iPlumb3r/EntangledBootstrap/blob/master/images/E2M-e_4EBR.png)
+![E2M-e_EBR](https://github.com/iPlumb3r/EntangledBootstrap/blob/master/images/E2M-e_4EBR_2020-04-02.png)
