@@ -11,7 +11,7 @@ What are the "ingredients" of this use case ?
 * The methodology is roughly described in this <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/ReasonWhyA2-LevelModel_EN.md">page</a>
 * The data are coming from the <a href="https://github.com/iPlumb3r/SEAMLESS">SEAMLESS</a> initiative
 
-![UC_SEAMLESS](https://github.com/iPlumb3r/EntagledBootstrap/blob/master/images/UC_SEAMLESS_2020-04-02.jpg)
+![UC_SEAMLESS](https://github.com/iPlumb3r/EntangledBootstrap/blob/master/images/UC_SEAMLESS_2020-04-02.jpg)
 Description and/or illustration of concretes situations that the EBR initiative must grasp ...
 (Te Be Completed)
 
