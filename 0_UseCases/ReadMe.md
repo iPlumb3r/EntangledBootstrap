@@ -1,7 +1,7 @@
 Use Cases
 ==
 
-Case of SEAMLESS (Dogfooding at Works !)
+Case of SEAMLESS (<a href="https://en.wikipedia.org/wiki/Eating_your_own_dog_food">dogfooding</a> at Works !)
 -
 
 <a href="https://github.com/iPlumb3r/SEAMLESS">SEAMLESS</a> is a initiative which aims to provide « as a service / platform » business applications (fully distributed & semantic driven) for helping organizations to design and produce cyber-physical products and associated services in an efficient way !
