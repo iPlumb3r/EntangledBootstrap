@@ -19,7 +19,7 @@ Initiative ID Card
         </tr>
         <tr>
             <th>Description</th>
-            <td>Built a Semantic Cartography of the intersection between #SemanticTechnologies & #DistributedWeb Ecosystems</td>
+            <td>Build a Semantic Cartography of the intersection between #SemanticTechnologies & #DistributedWeb Ecosystems</td>
             <td>N/A</td>
         </tr>
         <tr>
