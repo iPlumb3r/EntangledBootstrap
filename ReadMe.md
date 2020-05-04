@@ -34,7 +34,7 @@ Initiative ID Card
         </tr>
         <tr>
             <th>Tags</th>
-            <td>#EcosystemMapping <a href="https://www.topincs.com/EntangledBootstrap/1667">#SemanticCartography</a> <a href="https://www.topincs.com/EntangledBootstrap/1880">#SemanticTechnologies</a> <a href="https://www.topincs.com/EntangledBootstrap/2057">#SemanticWeb</a> <a href="https://www.topincs.com/EntangledBootstrap/1665">#DecentralizedWeb</a> <a href="https://www.topincs.com/EntangledBootstrap/1665">#DistributedWeb</a> <a href="https://www.topincs.com/EntangledBootstrap/1631">#OntologyDrivenSoftwareEngineering</a> #SemanticDrivenForms #InferenceEngine</td>
+            <td>#EcosystemMapping <a href="https://www.topincs.com/EntangledBootstrap/1667">#SemanticCartography</a> <a href="https://www.topincs.com/EntangledBootstrap/1880">#SemanticTechnologies</a> <a href="https://www.topincs.com/EntangledBootstrap/2057">#SemanticWeb</a> <a href="https://www.topincs.com/EntangledBootstrap/2058">#DecentralizedWeb</a> <a href="https://www.topincs.com/EntangledBootstrap/2058">#DistributedWeb</a> <a href="https://www.topincs.com/EntangledBootstrap/1631">#OntologyDrivenSoftwareEngineering</a> #SemanticDrivenForms #InferenceEngine</td>
             <td>N/A</td>
         </tr>
         <tr>
